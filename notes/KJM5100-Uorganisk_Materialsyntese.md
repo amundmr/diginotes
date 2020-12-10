@@ -11,3 +11,9 @@
 - [[CVT]] (Gas Phase transport)
 - [[Aerosol]]
 - [[Glass]]
+- [[Precipitation]]
+- [[Biomaterials]]
+- [[Solvothermal]]
+- [[Sol-gel]]
+- [[Porosity]]
+- [[Nanostructures]]

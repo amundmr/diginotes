@@ -15,8 +15,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Glass.md",
-                "mode": "preview"
+                "file": "Solvothermal.md",
+                "mode": "source"
               }
             },
             "group": "77a78314b04e28e7"
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glass.md",
+                "file": "Solvothermal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glass.md",
+                "file": "Solvothermal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Glass.md",
-    "Aerosol.md",
-    "CVD.md",
+    "Solvothermal.md",
     "KJM5100-Uorganisk_Materialsyntese.md",
+    "Biomaterials.md",
+    "Aerosol.md",
+    "Precipitation.md",
+    "Glass.md",
+    "CVD.md",
     "Solid state reactions.md",
     "Pasted image 20201210091902.png",
-    "Silica_Flame_Hydrolysis.png",
-    "studies.md",
-    "main.md",
-    "test.md"
+    "Silica_Flame_Hydrolysis.png"
   ]
 }
