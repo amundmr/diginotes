@@ -10,13 +10,13 @@
           {
             "id": "1ad18cfe2eaed533",
             "type": "leaf",
-            "dimension": 85.25073746312685,
+            "dimension": 74.29305912596404,
             "active": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solvothermal.md",
-                "mode": "source"
+                "file": "Glass.md",
+                "mode": "preview"
               }
             },
             "group": "77a78314b04e28e7"
@@ -24,11 +24,11 @@
           {
             "id": "ce305f5a6f5ec02f",
             "type": "leaf",
-            "dimension": 14.749262536873156,
+            "dimension": 25.706940874035972,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solvothermal.md",
+                "file": "Glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solvothermal.md",
+                "file": "Glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Solvothermal.md",
-    "KJM5100-Uorganisk_Materialsyntese.md",
-    "Biomaterials.md",
-    "Aerosol.md",
-    "Precipitation.md",
     "Glass.md",
-    "CVD.md",
-    "Solid state reactions.md",
-    "Pasted image 20201210091902.png",
-    "Silica_Flame_Hydrolysis.png"
+    "KJM5100-Uorganisk_Materialsyntese.md",
+    "Aerosol-spraypyrolisys.png",
+    "Aerosol-Gas2particle.png",
+    "Ag-crystal-shapes.png",
+    "KJM5100-images/Silica_Flame_Hydrolysis.png",
+    "Aerosol.md",
+    "Solvothermal.md",
+    "Biomaterials.md",
+    "Precipitation.md"
   ]
 }
