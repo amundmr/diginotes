@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad18cfe2eaed533",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "main.md",
-            "mode": "source"
+        "id": "a7e0e9da98c9b123",
+        "type": "split",
+        "children": [
+          {
+            "id": "1ad18cfe2eaed533",
+            "type": "leaf",
+            "dimension": 85.25073746312685,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glass.md",
+                "mode": "preview"
+              }
+            },
+            "group": "77a78314b04e28e7"
+          },
+          {
+            "id": "ce305f5a6f5ec02f",
+            "type": "leaf",
+            "dimension": 14.749262536873156,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Glass.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "77a78314b04e28e7"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
+                "file": "Glass.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Glass.md",
+    "Aerosol.md",
+    "CVD.md",
+    "KJM5100-Uorganisk_Materialsyntese.md",
+    "Solid state reactions.md",
+    "Pasted image 20201210091902.png",
+    "Silica_Flame_Hydrolysis.png",
+    "studies.md",
     "main.md",
-    "test.md",
-    "Untitled.md"
+    "test.md"
   ]
 }
