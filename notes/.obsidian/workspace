@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a7e0e9da98c9b123",
-        "type": "split",
-        "children": [
-          {
-            "id": "1ad18cfe2eaed533",
-            "type": "leaf",
-            "dimension": 74.29305912596404,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Glass.md",
-                "mode": "preview"
-              }
-            },
-            "group": "77a78314b04e28e7"
-          },
-          {
-            "id": "ce305f5a6f5ec02f",
-            "type": "leaf",
-            "dimension": 25.706940874035972,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Glass.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "77a78314b04e28e7"
+        "id": "1ad18cfe2eaed533",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Porosity.md",
+            "mode": "preview"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Glass.md",
+                "file": "Porosity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Glass.md",
+    "Porosity.md",
     "KJM5100-Uorganisk_Materialsyntese.md",
-    "Aerosol-spraypyrolisys.png",
-    "Aerosol-Gas2particle.png",
-    "Ag-crystal-shapes.png",
-    "KJM5100-images/Silica_Flame_Hydrolysis.png",
-    "Aerosol.md",
+    "Sol-gel.md",
+    "Precipitation.md",
     "Solvothermal.md",
     "Biomaterials.md",
-    "Precipitation.md"
+    "Glass.md",
+    "Aerosol-spraypyrolisys.png",
+    "Aerosol-Gas2particle.png",
+    "Ag-crystal-shapes.png"
   ]
 }
