@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "main.md",
+            "file": "Nanostructures.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
+                "file": "Nanostructures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "main.md",
-    "test.md",
-    "Untitled.md"
+    "Nanostructures.md",
+    "Glass.md",
+    "Porosity.md",
+    "KJM5100-Uorganisk_Materialsyntese.md",
+    "CVD.md",
+    "Sol-gel.md",
+    "Precipitation.md",
+    "Solvothermal.md",
+    "Biomaterials.md",
+    "Aerosol-spraypyrolisys.png"
   ]
 }
