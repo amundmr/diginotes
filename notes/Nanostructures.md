@@ -46,3 +46,4 @@ Happens at lower T with smaller NP size.
 - \< 2nm, dependent on atom amount
 	- Cubo-octahedron: Low activity
 	- Icosahedron: High activity
+
