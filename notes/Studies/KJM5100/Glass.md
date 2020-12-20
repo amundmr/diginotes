@@ -79,5 +79,5 @@ Additives:
 - Many different building blocks
 - Silicate + metal oxides: non-bridging oxygen atoms
 - Borate + metal oxides: Converts planar BO$_3$ to tetrahedral BO$_4$.
-- Modification of [[#Zachariasens rules]]: A _high percentage_ of network cations must have 3 anions.
+- Modification of [[Glass#Zachariasens rules]]: A _high percentage_ of network cations must have 3 anions.
 ![[Borate-groups.png]]

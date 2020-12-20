@@ -4,16 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "1ad18cfe2eaed533",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Nanostructures.md",
-            "mode": "source"
+        "id": "9da2b28abdee7b93",
+        "type": "split",
+        "children": [
+          {
+            "id": "1ad18cfe2eaed533",
+            "type": "leaf",
+            "dimension": 68.94409937888199,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cooking/Roestipotet.md",
+                "mode": "preview"
+              }
+            },
+            "group": "62fcd934a0603be4"
+          },
+          {
+            "id": "3128bdf68142da49",
+            "type": "leaf",
+            "dimension": 31.05590062111801,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cooking/Roestipotet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "62fcd934a0603be4"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nanostructures.md",
+                "file": "Cooking/Roestipotet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Nanostructures.md",
-    "Glass.md",
-    "Porosity.md",
-    "KJM5100-Uorganisk_Materialsyntese.md",
-    "CVD.md",
-    "Sol-gel.md",
-    "Precipitation.md",
-    "Solvothermal.md",
-    "Biomaterials.md",
-    "Aerosol-spraypyrolisys.png"
+    "Cooking/Roestipotet.md",
+    "Cooking/Cooking.md",
+    "main.md",
+    "Studies/studies.md",
+    "Studies/KJM5100/KJM5100-Uorganisk_Materialsyntese.md",
+    "Studies/KJM5100/Glass.md",
+    "Roestipotet.md",
+    "cooking.md",
+    "Hikes/Hikes.md",
+    "studies.md"
   ]
 }

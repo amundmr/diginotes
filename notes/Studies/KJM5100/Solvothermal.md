@@ -57,7 +57,7 @@ Two main synthesis types:
 - Transition metals can be made with unusual ox-states (CrO$_2$)
 - Prep of metastable phases (GeO$_2$ with Quarts structure using Quarts seed)
 - Formation of Zeolites + other microporous materials
-- Usually dissolution/[[precipitation]] mechanisms
+- Usually dissolution/[[Precipitation]] mechanisms
 
 **Leaching:**
 - Bayer process -> extract high-grade Al(OH)$_3$ from bauxite ore

@@ -1,11 +1,11 @@
 # Porosity
 - Classically organics, polymeric foams
 - Inorganic porous materials developed for:
-	- Insulation ([[#Metallic Foams]])
+	- Insulation ([[Porosity#Metallic Foams]])
 	- Cushioning
-	- Impact protection ([[#Metallic Foams]])
-	- Catalysys ([[#Zeolites]])
-	- Membranes  ([[#Metallic Foams]])
+	- Impact protection ([[Porosity#Metallic Foams]])
+	- Catalysys ([[Porosity#Zeolites]])
+	- Membranes  ([[Porosity#Metallic Foams]])
 	- Construction
 - nm-mm pore sizes
 - Ordered and irregular structures
@@ -35,11 +35,11 @@
 ![[pores-transport.png]]
 
 **Types:**
-[[#Metallic Foams]]
-[[#Aerogels]]
-[[#Zeolites]]
-[[#MOFs]]
-[[#MCMs]]
+[[Porosity#Metallic Foams]]
+[[Porosity#Aerogels]]
+[[Porosity#Zeolites]]
+[[Porosity#MOFs]]
+[[Porosity#MCMs]]
 
 ![[porous-overview.png]]
 ## Metallic Foams
@@ -114,7 +114,7 @@ Metal organic frameworks
 ### MOF Structure
 Built by BBU's consisting of metallic connectors and organic linkers.
 ![[MOF-structure.png]]
-However, unlinke [[#Zeotype Structure]], connector-linker bonds are coordinative or ionic, not covalent.
+However, unlinke [[Porosity#Zeotype Structure]], connector-linker bonds are coordinative or ionic, not covalent.
 - Among the largest pores of crystalline structures.
 - \>1000 m$^2$/g surface area
 

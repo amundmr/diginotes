@@ -1,0 +1,4 @@
+# Hikes
+
+## Molde
+[[Bud Kyststi]]
