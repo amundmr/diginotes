@@ -4,3 +4,4 @@ This is a collection of notes taken with the markdown-based noting software [[Ob
 Don't have a place to start? 
 [[Cooking]]
 [[Hikes]]
+[[Maintenance]]

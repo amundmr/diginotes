@@ -2,3 +2,6 @@
 
 ## Molde
 [[Bud Kyststi]]
+
+## Midsund
+[[Bløkallen]]

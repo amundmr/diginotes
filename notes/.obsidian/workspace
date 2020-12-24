@@ -15,8 +15,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Roestipotet.md",
-                "mode": "preview"
+                "file": "Hikes/Bløkallen.md",
+                "mode": "source"
               }
             },
             "group": "62fcd934a0603be4"
@@ -24,11 +24,11 @@
           {
             "id": "3128bdf68142da49",
             "type": "leaf",
-            "dimension": 31.05590062111801,
+            "dimension": 31.055900621118006,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Roestipotet.md",
+                "file": "Hikes/Bløkallen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Roestipotet.md",
+                "file": "Hikes/Bløkallen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Cooking/Roestipotet.md",
-    "Cooking/Cooking.md",
-    "main.md",
-    "Studies/studies.md",
-    "Studies/KJM5100/KJM5100-Uorganisk_Materialsyntese.md",
-    "Studies/KJM5100/Glass.md",
-    "Roestipotet.md",
-    "cooking.md",
+    "Hikes/Bløkallen.md",
+    "Hikes/Bud Kyststi.md",
+    "Bløkallen.md",
     "Hikes/Hikes.md",
-    "studies.md"
+    "main.md",
+    "AudiA4B5 Gearbox oil change.md",
+    "AudiA4B5 Motor oil change.md",
+    "AudiA4B5 Other Maintenance.md",
+    "Maintenance.md",
+    "Cooking/Roestipotet.md"
   ]
 }
