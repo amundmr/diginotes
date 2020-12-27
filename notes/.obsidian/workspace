@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hikes/Bløkallen.md",
+                "file": "main.md",
                 "mode": "source"
               }
             },
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hikes/Bløkallen.md",
+                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hikes/Bløkallen.md",
+                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,11 +112,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "main.md",
     "Hikes/Bløkallen.md",
     "Hikes/Bud Kyststi.md",
     "Bløkallen.md",
     "Hikes/Hikes.md",
-    "main.md",
     "AudiA4B5 Gearbox oil change.md",
     "AudiA4B5 Motor oil change.md",
     "AudiA4B5 Other Maintenance.md",

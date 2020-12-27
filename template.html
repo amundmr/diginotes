@@ -1,97 +1,13 @@
 <!DOCTYPE html>
-<html>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raniseth diginotes</title>
+<!-- STYLE IMPORT-->
+  <link rel="stylesheet" href="styles.css">
+</head>
 
-
-<!-- STYLE FOR LEFT BAR-->
-  <style>
-  body {
-    margin: 0;
-    font-family: "Lato", sans-serif;
-  }
-    /* The sidebar for nav + backlinks */
-    .sidenav {
-      height: 100%; /* Full-height: remove this if you want "auto" height */
-      width: 160px; /* Set the width of the sidebar */
-      position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-      z-index: 1; /* Stay on top */
-      top: 10; /* Stay at the top */
-      left: 0;
-      background-color: #111; /* Black */
-      overflow-x: hidden; /* Disable horizontal scroll */
-      padding-top: 20px;
-    }
-    
-    /* Backlinks */
-    .sidenav a {
-      padding: 6px 8px 6px 16px;
-      text-decoration: none;
-      font-size: 12;
-      color: wheat;
-      display: block;
-    }
-    
-    .sidenav a.basic {
-      float: left;
-      color: #f2f2f2;
-      text-align: center;
-      padding: 8px 16px;
-      text-decoration: none;
-      font-size: 17px;
-    }
-
-    .sidenav a.basic:hover {
-      background-color: #ddd;
-      color: black;
-    }
-    
-    /* The navigation menu links */
-    .sidenav h2 {
-      padding: 6px 8px 6px 16px;
-      text-decoration: none;
-      font-size: 17px;
-      color: #ddd;
-      display: block;
-    }
-    /* When you mouse over the navigation links, change their color */
-    .sidenav a:hover {
-      color: #fff5e3;
-    }
-    
-    .sidenav input[type=text] {
-    padding: 6px 8px 6px 16px;
-    border: none;
-    font-size: 17px;
-    background-color: #111;
-    color: #f2f2f2;
-    }
-
-
-    /* Style page content */
-    .main {
-      margin-left: 160px; /* Same as the width of the sidebar */
-      padding: 0px 10px;
-    }
-    
-    /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-    @media screen and (max-height: 450px) {
-      .sidenav {padding-top: 15px;}
-      .sidenav a {font-size: 18px;}
-    }
-
-    /* just a class for main content */
-    div.content {
-      overflow: auto;
-      margin: auto;
-      padding-left: 160px; /* Same as the width of the sidebar */
-      max-width: 500px;
-    }
-    div.content h1 {
-      text-align: center;
-    }
-
-  </style>
 <body>
 
 <!-- Backlinks + menu on left side goes here -->
@@ -113,10 +29,11 @@
 <!-- Content will go here -->
 
   <div class = "content">
-    <h1>{title}</h1>
+    <article>
+      <header><h1>{title}</h1></header>
 
-    {content}
-    
+      {content}
+    </article>
   </div>
 
   <!-- KaTeX -->
