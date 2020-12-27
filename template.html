@@ -5,93 +5,93 @@
 
 
 <!-- STYLE FOR LEFT BAR-->
-<style>
-body {
-  margin: 0;
-  font-family: "Lato", sans-serif;
-}
-  /* The sidebar for nav + backlinks */
-  .sidenav {
-    height: 100%; /* Full-height: remove this if you want "auto" height */
-    width: 160px; /* Set the width of the sidebar */
-    position: fixed; /* Fixed Sidebar (stay in place on scroll) */
-    z-index: 1; /* Stay on top */
-    top: 10; /* Stay at the top */
-    left: 0;
-    background-color: #111; /* Black */
-    overflow-x: hidden; /* Disable horizontal scroll */
-    padding-top: 20px;
+  <style>
+  body {
+    margin: 0;
+    font-family: "Lato", sans-serif;
   }
-  
-  /* Backlinks */
-  .sidenav a {
+    /* The sidebar for nav + backlinks */
+    .sidenav {
+      height: 100%; /* Full-height: remove this if you want "auto" height */
+      width: 160px; /* Set the width of the sidebar */
+      position: fixed; /* Fixed Sidebar (stay in place on scroll) */
+      z-index: 1; /* Stay on top */
+      top: 10; /* Stay at the top */
+      left: 0;
+      background-color: #111; /* Black */
+      overflow-x: hidden; /* Disable horizontal scroll */
+      padding-top: 20px;
+    }
+    
+    /* Backlinks */
+    .sidenav a {
+      padding: 6px 8px 6px 16px;
+      text-decoration: none;
+      font-size: 12;
+      color: wheat;
+      display: block;
+    }
+    
+    .sidenav a.basic {
+      float: left;
+      color: #f2f2f2;
+      text-align: center;
+      padding: 8px 16px;
+      text-decoration: none;
+      font-size: 17px;
+    }
+
+    .sidenav a.basic:hover {
+      background-color: #ddd;
+      color: black;
+    }
+    
+    /* The navigation menu links */
+    .sidenav h2 {
+      padding: 6px 8px 6px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      color: #ddd;
+      display: block;
+    }
+    /* When you mouse over the navigation links, change their color */
+    .sidenav a:hover {
+      color: #fff5e3;
+    }
+    
+    .sidenav input[type=text] {
     padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 12;
-    color: wheat;
-    display: block;
-  }
-  
-  .sidenav a.basic {
-    float: left;
+    border: none;
+    font-size: 17px;
+    background-color: #111;
     color: #f2f2f2;
-    text-align: center;
-    padding: 8px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
-
-  .sidenav a.basic:hover {
-    background-color: #ddd;
-    color: black;
-  }
-  
-  /* The navigation menu links */
-  .sidenav h2 {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    color: #ddd;
-    display: block;
-  }
-  /* When you mouse over the navigation links, change their color */
-  .sidenav a:hover {
-    color: #fff5e3;
-  }
-  
-  .sidenav input[type=text] {
-  padding: 6px 8px 6px 16px;
-  border: none;
-  font-size: 17px;
-  background-color: #111;
-  color: #f2f2f2;
-  }
+    }
 
 
-  /* Style page content */
-  .main {
-    margin-left: 160px; /* Same as the width of the sidebar */
-    padding: 0px 10px;
-  }
-  
-  /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
-  @media screen and (max-height: 450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a {font-size: 18px;}
-  }
+    /* Style page content */
+    .main {
+      margin-left: 160px; /* Same as the width of the sidebar */
+      padding: 0px 10px;
+    }
+    
+    /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
+    @media screen and (max-height: 450px) {
+      .sidenav {padding-top: 15px;}
+      .sidenav a {font-size: 18px;}
+    }
 
-  /* just a class for main content */
-  div.content {
-    overflow: auto;
-    margin: auto;
-    padding-left: 160px; /* Same as the width of the sidebar */
-    max-width: 500px;
-  }
-  div.content h1 {
-    text-align: center;
-  }
+    /* just a class for main content */
+    div.content {
+      overflow: auto;
+      margin: auto;
+      padding-left: 160px; /* Same as the width of the sidebar */
+      max-width: 500px;
+    }
+    div.content h1 {
+      text-align: center;
+    }
 
-</style>
+  </style>
 <body>
 
 <!-- Backlinks + menu on left side goes here -->
@@ -118,6 +118,44 @@ body {
     {content}
     
   </div>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+    integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
+    integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
+    crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
+    crossorigin="anonymous"></script>
+
+  <!-- Parsing single dollar signs -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {{
+        renderMathInElement(document.body, {{
+          delimiters: [
+            {{left: "$$", right: "$$", display: true}},
+          {{left: "\\[", right: "\\]", display: true}},
+      {{left: "$", right: "$", display: false}},
+      {{left: "\\(", right: "\\)", display: false}}
+        ]
+    }});
+    }});
+  </script>
+
+  <!-- Syntax highlighting through highlight.js -->
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/styles/default.min.css">
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/highlight.min.js"></script>
+
+  <script>
+    // Ignore highlighting of mermaid
+    hljs.configure({{noHighlightRe: /^mermaid$/}});
+    hljs.initHighlightingOnLoad();
+  </script>
 
 </body>
 
