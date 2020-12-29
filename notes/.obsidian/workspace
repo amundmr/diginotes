@@ -15,8 +15,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "main.md",
-                "mode": "source"
+                "file": "Cooking/Fish'n'Chips.md",
+                "mode": "preview"
               }
             },
             "group": "62fcd934a0603be4"
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
+                "file": "Cooking/Fish'n'Chips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "main.md",
+                "file": "Cooking/Fish'n'Chips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Cooking/Fish'n'Chips.md",
+    "Cooking/Roestipotet.md",
+    "Fish'n'Chips.md",
+    "Cooking/Cooking.md",
     "main.md",
     "Hikes/Bløkallen.md",
     "Hikes/Bud Kyststi.md",
     "Bløkallen.md",
     "Hikes/Hikes.md",
-    "AudiA4B5 Gearbox oil change.md",
-    "AudiA4B5 Motor oil change.md",
-    "AudiA4B5 Other Maintenance.md",
-    "Maintenance.md",
-    "Cooking/Roestipotet.md"
+    "AudiA4B5 Gearbox oil change.md"
   ]
 }
