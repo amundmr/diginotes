@@ -15,8 +15,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Fish'n'Chips.md",
-                "mode": "preview"
+                "file": "Cooking/Risotto med kjøtt.md",
+                "mode": "source"
               }
             },
             "group": "62fcd934a0603be4"
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Fish'n'Chips.md",
+                "file": "Cooking/Risotto med kjøtt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Fish'n'Chips.md",
+                "file": "Cooking/Risotto med kjøtt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Cooking/Fish'n'Chips.md",
-    "Cooking/Roestipotet.md",
-    "Fish'n'Chips.md",
+    "Risotto med kjøtt.md",
     "Cooking/Cooking.md",
+    "Cooking/JuleKveite.md",
+    "KiCad.md",
+    "Hobbies.md",
     "main.md",
-    "Hikes/Bløkallen.md",
-    "Hikes/Bud Kyststi.md",
-    "Bløkallen.md",
-    "Hikes/Hikes.md",
-    "AudiA4B5 Gearbox oil change.md"
+    "JuleKveite.md",
+    "Loaded Veggie Nachos.md",
+    "Studies/KJM5100/Biomaterials.md",
+    "Studies/KJM5100/KJM5100-Uorganisk_Materialsyntese.md"
   ]
 }
