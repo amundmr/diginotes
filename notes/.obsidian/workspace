@@ -15,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking/Risotto med kjøtt.md",
+                "file": "Studies/KJM5020/Biomineralization.md",
                 "mode": "source"
               }
             },
@@ -28,7 +28,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Risotto med kjøtt.md",
+                "file": "Studies/KJM5020/Biomineralization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking/Risotto med kjøtt.md",
+                "file": "Studies/KJM5020/Biomineralization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Risotto med kjøtt.md",
-    "Cooking/Cooking.md",
-    "Cooking/JuleKveite.md",
-    "KiCad.md",
-    "Hobbies.md",
-    "main.md",
-    "JuleKveite.md",
-    "Loaded Veggie Nachos.md",
-    "Studies/KJM5100/Biomaterials.md",
-    "Studies/KJM5100/KJM5100-Uorganisk_Materialsyntese.md"
+    "Biomineralization.md",
+    "Studies/KJM5020/KJM5020-Nanochemistry.md",
+    "Heterostructures.md",
+    "Studies/KJM5020/Layered Materials.md",
+    "Studies/KJM5020/Energy Materials.md",
+    "Intercalation.md",
+    "Studies/KJM5020/Self Assembly.md",
+    "Layered Materials.md",
+    "Energy Materials.md",
+    "Self Assembly.md"
   ]
 }
