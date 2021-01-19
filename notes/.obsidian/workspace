@@ -4,42 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da2b28abdee7b93",
-        "type": "split",
-        "children": [
-          {
-            "id": "1ad18cfe2eaed533",
-            "type": "leaf",
-            "dimension": 68.94409937888199,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studies/KJM3110/Electricity.md",
-                "mode": "preview"
-              }
-            },
-            "group": "62fcd934a0603be4"
-          },
-          {
-            "id": "3128bdf68142da49",
-            "type": "leaf",
-            "dimension": 31.055900621118006,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Studies/KJM3110/Electricity.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "62fcd934a0603be4"
+        "id": "1ad18cfe2eaed533",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Studies/TOPAS course.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/KJM3110/Electricity.md",
+                "file": "Studies/TOPAS course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Untitled.md",
+    "Studies/KJM5120-Defect-chemistry-and-reactions.md",
+    "KJM5120-Defect-chemistry-and-reactions.md",
+    "Studies/studies.md",
+    "Studies/KJM3110/Electricity.md",
     "Electricity.md",
     "KJM3110-Electrochemistry.md",
     "Electrochemistry-introduction.md",
-    "Studies/studies.md",
     "KJM3110 - Electrochemistry.md",
-    "Studies/KJM5020/KJM5020-Nanochemistry.md",
-    "Electronic States.md",
-    "Studies/KJM5020/Energy Materials.md",
-    "NanoCharacterization.md",
-    "Nanoparticle synthesis.md"
+    "Studies/KJM5020/KJM5020-Nanochemistry.md"
   ]
 }
