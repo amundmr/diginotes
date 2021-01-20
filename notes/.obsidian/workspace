@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studies/TOPAS course.md",
+            "file": "Studies/KJM3110/Electricity.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/TOPAS course.md",
+                "file": "Studies/KJM3110/Electricity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Studies/KJM3110/Electricity.md",
+    "Studies/KJM3110/Electrochemistry-introduction.md",
+    "Electrochemical cells.md",
+    "Studies/KJM3110/KJM3110-Electrochemistry.md",
+    "Studies/TOPAS course.md",
     "Untitled.md",
     "Studies/KJM5120-Defect-chemistry-and-reactions.md",
     "KJM5120-Defect-chemistry-and-reactions.md",
     "Studies/studies.md",
-    "Studies/KJM3110/Electricity.md",
-    "Electricity.md",
-    "KJM3110-Electrochemistry.md",
-    "Electrochemistry-introduction.md",
-    "KJM3110 - Electrochemistry.md",
-    "Studies/KJM5020/KJM5020-Nanochemistry.md"
+    "Electricity.md"
   ]
 }
