@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studies/KJM3110/Electricity.md",
-            "mode": "source"
+            "file": "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/KJM3110/Electricity.md",
+                "file": "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Studies/KJM3110/Electricity.md",
-    "Studies/KJM3110/Electrochemistry-introduction.md",
-    "Electrochemical cells.md",
-    "Studies/KJM3110/KJM3110-Electrochemistry.md",
-    "Studies/TOPAS course.md",
+    "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
+    "Metropolis Algorithm.md",
+    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
+    "Monte Carlo.md",
+    "Studies/FYS4411 Computational Physics 2/Defining wavefunctions.md",
     "Untitled.md",
-    "Studies/KJM5120-Defect-chemistry-and-reactions.md",
-    "KJM5120-Defect-chemistry-and-reactions.md",
-    "Studies/studies.md",
-    "Electricity.md"
+    "Computational Coding Structure.md",
+    "Studies/KJM5120 Defectchemistry/Defect notation.md",
+    "Studies/KJM5120 Defectchemistry/KJM5120-Defect-chemistry-and-reactions.md",
+    "Studies/Pasted image 20210121103053.png"
   ]
 }
