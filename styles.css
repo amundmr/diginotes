@@ -66,6 +66,7 @@ body {
   padding: 0px 10px;
 }
     
+
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
@@ -81,4 +82,19 @@ div.content {
 }
 div.content header {
   text-align: center;
+}
+div.content a:link {
+  color: #d0cca9;
+  background-color: transparent;
+  text-decoration: none;
+}
+div.content a:visited {
+  color: #aba788;
+  background-color: transparent;
+  text-decoration: none;
+}
+div.content a:hover {
+  color: #d7cd7c;
+  background-color: transparent;
+  text-decoration: underline;
 }
