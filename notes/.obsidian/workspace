@@ -1,42 +1,17 @@
 {
   "main": {
-    "id": "89cc783b0d8cb7f0",
+    "id": "08c73f15f572a5a9",
     "type": "split",
     "children": [
       {
-        "id": "9da2b28abdee7b93",
-        "type": "split",
-        "children": [
-          {
-            "id": "1ad18cfe2eaed533",
-            "type": "leaf",
-            "dimension": 68.94409937888199,
-            "active": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maintenance/AudiA4B5 Motor oil change.md",
-                "mode": "source"
-              }
-            },
-            "group": "62fcd934a0603be4"
-          },
-          {
-            "id": "3128bdf68142da49",
-            "type": "leaf",
-            "dimension": 31.055900621118006,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Maintenance/AudiA4B5 Motor oil change.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "62fcd934a0603be4"
+        "id": "da61325f9e722c7c",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "source"
           }
         }
       }
@@ -44,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d699be8edc2c157",
+    "id": "0b7c94fc6b00f269",
     "type": "split",
     "children": [
       {
-        "id": "91245b1123727021",
+        "id": "17802901cf53817c",
         "type": "tabs",
         "children": [
           {
-            "id": "70d784947ef22ffb",
+            "id": "7d5b113864ed6d5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +35,7 @@
             }
           },
           {
-            "id": "bac3edc6e60d4f35",
+            "id": "5ce35aedfceffb29",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -81,24 +56,20 @@
     "width": 300
   },
   "right": {
-    "id": "974482ca52e0ce7f",
+    "id": "27880f67a7f81484",
     "type": "split",
     "children": [
       {
-        "id": "d5df20479c808818",
+        "id": "e231ce9ba053b729",
         "type": "tabs",
         "children": [
           {
-            "id": "638b9299f2f485c4",
+            "id": "554c24a845d03632",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Maintenance/AudiA4B5 Motor oil change.md",
-=======
-                "file": "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
->>>>>>> f4bb97941a0223250ae31fe65d9977f0ae263c80
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,28 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Maintenance/AudiA4B5 Motor oil change.md",
-    "Maintenance/AudiA4B5 Gearbox oil change.md",
-    "Maintenance/Maintenance.md",
-    "Electronic States.md",
-    "Studies/KJM5020/KJM5020-Nanochemistry.md",
-    "Studies/KJM5020/Energy Materials.md",
-    "NanoCharacterization.md",
-    "Nanoparticle synthesis.md",
-    "Studies/KJM5100/Precipitation.md",
-    "Studies/KJM5020/Carbon.md"
-=======
-    "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
-    "Metropolis Algorithm.md",
-    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
-    "Monte Carlo.md",
-    "Studies/FYS4411 Computational Physics 2/Defining wavefunctions.md",
-    "Untitled.md",
-    "Computational Coding Structure.md",
-    "Studies/KJM5120 Defectchemistry/Defect notation.md",
-    "Studies/KJM5120 Defectchemistry/KJM5120-Defect-chemistry-and-reactions.md",
-    "Studies/Pasted image 20210121103053.png"
->>>>>>> f4bb97941a0223250ae31fe65d9977f0ae263c80
+    "Index.md.md",
+    "main.md",
+    "Untitled.md"
   ]
 }
