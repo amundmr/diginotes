@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raniseth diginotes</title>
+<!-- STYLE IMPORT-->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<!-- Backlinks + menu on left side goes here -->
+  <div class="sidenav">
+    <a class = "basic" href="https://www.raniseth.com/diginotes/html/main.html">Main</a>
+    <a class = "basic" href="https://www.raniseth.com">Exit diginotes</a>
+    <input type="text" placeholder="Search..">
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <h2 >Backlinks</h2>
+    <div class="backlinks">
+
+<p><a href="maintenance">Maintenance</a></p>
+
+</div>
+
+  </div>
+
+
+<!-- Content will go here -->
+
+  <div class = "content">
+    <article>
+      <header><h1>AudiA4B5 Other Maintenance</h1></header>
+
+      <div id="content"><h1 id="other-maintenance">Other maintenance</h1>
+
+<p>208xxx km (23.12.2020): Replaced coupé filter</p>
+
+<p>209xxx km (30.12.2020): Motor air filter replaced</p>
+
+<h2 id="motor-air-filter-replacement">Motor air filter replacement</h2>
+
+<p>First remove the cover. It is just fastened by clips, but the clip below the arrow on the image below is the hardest one. Pull that first and then just pull up the entire cover.<br />
+<img src="luft-filter-dekselpng" alt="Luft-filter-deksel.png" /></p>
+
+<ol>
+<li>Unscrew the screw</li>
+<li>Unscrew the screw</li>
+<li>Yank the air intake hose traight out of the black box beneath</li>
+<li>Carefully loosen the rubber connection from the box</li>
+<li>This is not a must, but it is easier to get the new filter in if this is removed.</li>
+<li>This is all the clips that hold together the two parts of the filter box. The yellow arrow shows that the clip on the top right is easier to reach following the curved red arrow.<br />
+<img src="air-filter-replacementpng" alt="Air-filter-replacement.png" /></li>
+</ol>
+</div>
+    </article>
+  </div>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+    integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
+    integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
+    crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
+    crossorigin="anonymous"></script>
+
+  <!-- Parsing single dollar signs -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+          {left: "\\[", right: "\\]", display: true},
+      {left: "$", right: "$", display: false},
+      {left: "\\(", right: "\\)", display: false}
+        ]
+    });
+    });
+  </script>
+
+  <!-- Syntax highlighting through highlight.js -->
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/styles/default.min.css">
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/highlight.min.js"></script>
+
+  <script>
+    // Ignore highlighting of mermaid
+    hljs.configure({noHighlightRe: /^mermaid$/});
+    hljs.initHighlightingOnLoad();
+  </script>
+
+</body>
+
+</html>

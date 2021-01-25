@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raniseth diginotes</title>
+<!-- STYLE IMPORT-->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<!-- Backlinks + menu on left side goes here -->
+  <div class="sidenav">
+    <a class = "basic" href="https://www.raniseth.com/diginotes/html/main.html">Main</a>
+    <a class = "basic" href="https://www.raniseth.com">Exit diginotes</a>
+    <input type="text" placeholder="Search..">
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <h2 >Backlinks</h2>
+    
+  </div>
+
+
+<!-- Content will go here -->
+
+  <div class = "content">
+    <article>
+      <header><h1>Monte Carlo</h1></header>
+
+      <div id="content"><p>Algo for performing Monte Carlo:</p>
+
+<ul>
+<li>Initialization: Fix the number of MC steps, Choose initial $R$ and variational parameters $\alpha$ and calculate $|\psi_T^\alpha (R)|^2$.</li>
+<li>Initialise the energy and the variance and start the MC calc.<br />
+<ul><br />
+<li>Calc a trail pos $R_p = R + r \cdot step$ wehere $r$ is a random var $r \in [0,1].</li><br />
+<li>Metropolis algo to accept or reject this move $w = P(R_p)/P(R)$</li><br />
+<li>If the step is accepted, then we set $R = R_p$</li><br />
+<li>Update averages</li><br />
+</ul></li>
+<li>Finish and compute final averages</li>
+</ul>
+
+<h1 id="variational-monte-carlo">Variational Monte Carlo</h1>
+
+<ul>
+<li>Can include functions from different sub-files</li>
+<li>Must have some initial variables: Seed, number of: particles, steps, dimensions</li>
+<li>How to choose step size(for Harmonic Oscillator):<br />
+<ul><br />
+<li>SE from the ??</li><br />
+<li>$k(r) = u(r)/r$</li><br />
+<li>$r(0) = const$, $r(\infty) = 0$</li><br />
+<li>$u(0) = 0$, $u(\infty) = 0$</li><br />
+<li>Harmonic Oscill: $-\frac{\hbar^2}{2m} \frac{d^2}{dr^2}u(r) + 1/2 m \omega^2r^2u(r) = E u(r)$</li><br />
+<li>Scale equations, make them dimensionless (to atomic units)<br /><br />
+<ul><br /><br />
+<li>$\rho = \gamma r$ , $[r] = length$, $[\gamma] = length^{-1}$</li><br /><br />
+<li>$r = \rho/\gamma$</li><br /><br />
+<li>$-\frac{\hbar^2\gamma^2}{2m} \frac{d^2}{d\rho^2}u + 1/2 m \omega^2\rho^2/\gamma^2 u = E u$</li><br /><br />
+<li>Can choose and tune $\gamma$ as we want to remove all the constants. Done by setting all constants = 1 and solving for gamma.</li><br /><br />
+<li>Here: $\gamma = \sqrt{\hbar/m\omega}$</li><br /><br />
+-<br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
+</div>
+    </article>
+  </div>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+    integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
+    integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
+    crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
+    crossorigin="anonymous"></script>
+
+  <!-- Parsing single dollar signs -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+          {left: "\\[", right: "\\]", display: true},
+      {left: "$", right: "$", display: false},
+      {left: "\\(", right: "\\)", display: false}
+        ]
+    });
+    });
+  </script>
+
+  <!-- Syntax highlighting through highlight.js -->
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/styles/default.min.css">
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/highlight.min.js"></script>
+
+  <script>
+    // Ignore highlighting of mermaid
+    hljs.configure({noHighlightRe: /^mermaid$/});
+    hljs.initHighlightingOnLoad();
+  </script>
+
+</body>
+
+</html>

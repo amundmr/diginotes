@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raniseth diginotes</title>
+<!-- STYLE IMPORT-->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<!-- Backlinks + menu on left side goes here -->
+  <div class="sidenav">
+    <a class = "basic" href="https://www.raniseth.com/diginotes/html/main.html">Main</a>
+    <a class = "basic" href="https://www.raniseth.com">Exit diginotes</a>
+    <input type="text" placeholder="Search..">
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <h2 >Backlinks</h2>
+    
+  </div>
+
+
+<!-- Content will go here -->
+
+  <div class = "content">
+    <article>
+      <header><h1>TOPAS course</h1></header>
+
+      <div id="content"><h1 id="3-types-of-fitting">3 types of fitting</h1>
+
+<ul>
+<li>Peak fitting (individual peaks)</li>
+<li>Structure-less fitting (Pawley fitting, from space group)</li>
+<li>Ritveld fitting, from crystal structure and composition.</li>
+</ul>
+
+<p>These can be used together in TOPAS</p>
+
+<h1 id="least-squares-fitting">Least squares fitting</h1>
+
+<ul>
+<li><p>$R_{wp} = \frac{\Sigma_i}{}$</p></li>
+<li><p>Are you overfitting your data?</p></li>
+<li>Balance of observables vs variables</li>
+<li>Chi$^2$, ($\chi$) (GOF in TOPAS)</li>
+<li>$\chi^2 = [\frac{R_{wp}}{R_E}]^{1/2}$</li>
+<li>R$_E$ is the expected R-factor<br />
+<ul><br />
+<li>Basically the best fit the data statistics can support</li><br />
+</ul></li>
+<li>Visual inspection of fit and variables is important<br />
+<ul><br />
+<li>Many variables can correlate - watch for this</li><br />
+<li>Look for the software doing stupid things<br /><br />
+<ul><br /><br />
+<li>e.g. fitting background into broad peaks</li><br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
+
+<h1 id="full-pattern-fitting">Full pattern fitting</h1>
+
+<ul>
+<li>Link the peaks using some crystallographic knowlende</li>
+</ul>
+
+<h1 id="rietveld-fitting">Rietveld fitting</h1>
+
+<ul>
+<li>Data quality determines analysis limitations<br />
+<ul><br />
+<li>Sample prep is important (Flat surface, enough material)</li><br />
+<li>Choise of divergence slits (all X-ray beams must hit sample at all angles if not: can makes some peaks larger or smaller)</li><br />
+<li>Wider collection windows (up to at least 90 deg 2-theta for most samples)</li><br />
+<li>Choose step-size to properly describe peak shapes</li><br />
+<li>Rotation of samples on Si-holders: Take 20x1h scans in stead of 1x20h scan</li><br />
+<li>Longer collection times -> lower noise</li><br />
+<li>Capillary measurements can be an advantage, especially when preferred orientation is possible. This eliminates sample height errors as well.</li><br />
+</ul></li>
+<li>Pitfalls:<br />
+<ul><br />
+<li>Preferred orientations: Random orientation is assumed for powder diffraction.</li><br />
+<li><img src="pasted-image-20210119134050png" alt="Pasted image 20210119134050.png" /></li><br />
+<li>Can be avoided by:<br /><br />
+<ul><br /><br />
+<li>capillaries (spinning it)</li><br /><br />
+<li>roughened sample holder (or grease method with powder sprinkle)</li><br /><br />
+</ul></li><br />
+<li>Peaks and valleys, just ensure flat top of sample.</li><br />
+</ul></li>
+</ul>
+
+<h1 id="quantitative-phase-analysis">Quantitative Phase Analysis</h1>
+
+<ul>
+<li>$w_i = \frac{s_i \cdot V_i \cdot M_i \cdot Z_i}{\Sigma_{j=1}^n s_j \cdot V_j \cdot M_j \cdot Z_j}$</li>
+<li>s is the scale factor of the phase</li>
+<li>V is the volume of unit cell</li>
+<li>M is the mass of one formula unit</li>
+<li>Z is the number of formula units</li>
+<li><br />
+<ul><br />
+<li>Need to know the correct composition</li><br />
+</ul></li>
+<li>Amorphous phases of you material can throw off the results.</li>
+</ul>
+
+<h1 id="settings">Settings</h1>
+
+<h2 id="lp-factor">LP factor</h2>
+
+<ul>
+<li>Only needs to be used when ??</li>
+</ul>
+
+<h1 id="fundamental-parameters-fp">Fundamental parameters (FP)</h1>
+
+<ul>
+<li>Used to tell topas about the instrument</li>
+<li>Instrument<br />
+<ul><br />
+<li>Primary/secondary radius</li><br />
+<li>Linear PSD<br /><br />
+<ul><br /><br />
+<li>Angular range = 4.1deg (for Lynxeye detector)</li><br /><br />
+<li>FDS Angle = 0.1 (for 0.2mm slit)</li><br /><br />
+</ul></li><br />
+<li>Full axial model<br /><br />
+<ul><br /><br />
+<li>Source length = 12</li><br /><br />
+<li>Sample Length = 15</li><br /><br />
+<li>RS Length = 12</li><br /><br />
+<li>Primary/secondary soller slits = 2.5</li><br /><br />
+<li><img src="pasted-image-20210119142112png" alt="Pasted image 20210119142112.png" /></li><br /><br />
+<li><br /><br /><br />
+L often means Lorentian type peak<br /><br /><br />
+G often mean Gaussian type peak<br /><br /><br />
+Lvol-IB is easiest/best for finding crystallite sizes.<br /><br /><br />
+LVol-FWHM is basically Scherrer equation., which isnt as nice because it has a k-factor which can be different for people, making Scherrer sizes almost pointless in the litterature. Standard k-value is 0.89, but not all use it.</li><br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
+
+<h1 id="judging-fit">Judging fit</h1>
+
+<ul>
+<li>Tricky</li>
+<li>R_wp-dash is better than R_wp<br />
+<ul><br />
+<li>-dash does not include contribution from background fitting. Makes huge meaning when you have low signal-to noise ratio. You can spend many parametres doing the fitting of the background, while the peak fitting is bad. R_wp-dash ignores background fitting and is therefore better.</li><br />
+</ul></li>
+</ul>
+
+<h1 id="capillaries">Capillaries</h1>
+
+<ul>
+<li>Glass can give broad background peak at around 30$^\circ$ 2 $\theta$ which can be solved by just fitting a single phase with really small (2nm) crystallite size to. By fitting and locking that peak you can better refine other parameters more directly connected to your crystal. </li>
+</ul>
+</div>
+    </article>
+  </div>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+    integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
+    integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
+    crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
+    crossorigin="anonymous"></script>
+
+  <!-- Parsing single dollar signs -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+          {left: "\\[", right: "\\]", display: true},
+      {left: "$", right: "$", display: false},
+      {left: "\\(", right: "\\)", display: false}
+        ]
+    });
+    });
+  </script>
+
+  <!-- Syntax highlighting through highlight.js -->
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/styles/default.min.css">
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/highlight.min.js"></script>
+
+  <script>
+    // Ignore highlighting of mermaid
+    hljs.configure({noHighlightRe: /^mermaid$/});
+    hljs.initHighlightingOnLoad();
+  </script>
+
+</body>
+
+</html>
