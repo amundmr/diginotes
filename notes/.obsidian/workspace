@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studies/MASTER/Li-ion safety.md",
+            "file": "main.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/MASTER/Li-ion safety.md",
+                "file": "main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "main.md",
     "Untitled.md",
     "Studies/studies.md",
     "KiCad.md",
     "Hobbies.md",
-    "Index.md.md",
-    "main.md"
+    "Index.md.md"
   ]
 }
