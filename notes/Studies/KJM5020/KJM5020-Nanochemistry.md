@@ -12,6 +12,6 @@
 
 [[NanoCharacterization]]
 
-Covalent and ionic bonds are about equally strong, together with metalllic. about a factor 100 greater than Van der Waals.
+Covalent and ionic bonds are about equally strong, together with metalllic(). about a factor 100 greater than Van der Waals.
 
 [[Electronic States]]

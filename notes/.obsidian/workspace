@@ -38,8 +38,7 @@
             },
             "group": "62fcd934a0603be4"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Maintenance/AudiA4B5 Motor oil change.md",
+=======
+                "file": "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
+>>>>>>> f4bb97941a0223250ae31fe65d9977f0ae263c80
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +115,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Maintenance/AudiA4B5 Motor oil change.md",
     "Maintenance/AudiA4B5 Gearbox oil change.md",
     "Maintenance/Maintenance.md",
@@ -122,5 +126,17 @@
     "Nanoparticle synthesis.md",
     "Studies/KJM5100/Precipitation.md",
     "Studies/KJM5020/Carbon.md"
+=======
+    "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
+    "Metropolis Algorithm.md",
+    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
+    "Monte Carlo.md",
+    "Studies/FYS4411 Computational Physics 2/Defining wavefunctions.md",
+    "Untitled.md",
+    "Computational Coding Structure.md",
+    "Studies/KJM5120 Defectchemistry/Defect notation.md",
+    "Studies/KJM5120 Defectchemistry/KJM5120-Defect-chemistry-and-reactions.md",
+    "Studies/Pasted image 20210121103053.png"
+>>>>>>> f4bb97941a0223250ae31fe65d9977f0ae263c80
   ]
 }
