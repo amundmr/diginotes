@@ -31,7 +31,12 @@
     <a> </a>
     <a> </a>
     <h2 >Backlinks</h2>
-    
+    <div class="backlinks">
+
+<p><a href="fys4411-computational-physics-2.html">FYS4411 Computational Physics 2</a></p>
+
+</div>
+
   </div>
 
 
@@ -39,22 +44,36 @@
 
   <div class = "content"  style="color:#dbdbdb">
     <article>
-      <header><h1>main</h1></header>
+      <header><h1>Defining wavefunctions</h1></header>
 
-      <div id="content"><h1 id="welcome">Welcome</h1>
+      <div id="content"><p>How to define a trial wavefunction?</p>
 
-<p>This is a collection of notes taken with the markdown-based noting software <a href="obsidian">Obsidian</a>. I will as an experiment continue building this network of notes based on many things in my life. Cooking, hobby projects, philosophical thoughts, outdoors stuff and <a href="studies">studies</a> is just some of the topics I touch upon in my notes.</p>
+<p>Single particle problem:</p>
 
-<p>Don't have a place to start?<br />
-<a href="cooking">Cooking</a><br />
-<a href="hikes">Hikes</a><br />
-<a href="maintenance">Maintenance</a><br />
-<a href="hobbies">Hobbies</a></p>
+<h1 id="hydrogen-atom">Hydrogen atom</h1>
 
-<h1 id="vault-command-shortcuts">Vault command shortcuts</h1>
+<p>Scrhodinger Equation (SE):<br />
+$(\frac{\hbar^2}{2m} \Bell^2 - \frac{Zke^2}{r})\psi(\vec{r}) = E\psi(\vec{r})$<br />
+$\psi(\vec{r}) = k(r)P_{me}(\theta_g \phi)$<br />
+$x,y,z -> r, \theta, \phi | r \in [0, \infty), \theta \in[0, \pi], \phi \in [0, 2\pi]$</p>
 
-<p>Running oboe locally:<br />
-<code>oboe ./notes -o html -t .\template.html -d "Cooking" "Hikes" "Maintenance" "Studies" -e -b</code></p>
+<p><strong>Local energy:</strong><br />
+$\hbar = 1, m = 1, ke^2 = 1$<br />
+(atomic units)<br />
+$\frac{1}{k(r)} (- \frac{d^2}{dr^2} - \frac{2}{r}\frac{d}{dr} -\frac{Z}{r})k(r)$<br />
+First two ledd inside parenthesis is kinetic energy, Z/r is potential energy</p>
+
+<p><strong>What could go wrong:</strong></p>
+
+<ul>
+<li>The derivatives $\frac{d^m}{dr}k(r)$ are finite for all r (else it would converge)</li>
+<li>k(r) is finite for all r</li>
+<li>lim r -> 0: Massive problem because of division by r.<br />
+<ul><br />
+<li>Must ensure $(-\frac{Z}{r}\frac{d}{dr}r - \frac{Z/r}k) = 0$</li><br />
+<li>$-\frac{Z}{k(r)r} \frac{d}{dr}r = \frac{Z}{r} \frac{k}{k}$</li><br />
+</ul></li>
+</ul>
 </div>
     </article>
   </div>

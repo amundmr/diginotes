@@ -39,22 +39,53 @@
 
   <div class = "content"  style="color:#dbdbdb">
     <article>
-      <header><h1>main</h1></header>
+      <header><h1>QM-PDF</h1></header>
 
-      <div id="content"><h1 id="welcome">Welcome</h1>
+      <div id="content"><h1 id="quantum-mechanical-prob-dist-func">Quantum Mechanical - Prob dist func</h1>
 
-<p>This is a collection of notes taken with the markdown-based noting software <a href="obsidian">Obsidian</a>. I will as an experiment continue building this network of notes based on many things in my life. Cooking, hobby projects, philosophical thoughts, outdoors stuff and <a href="studies">studies</a> is just some of the topics I touch upon in my notes.</p>
+<ul>
+<li>$P_T(\vec{k}; \vec{\alpha}) = \frac{|\psi_T (\vec{k}; \vec{\alpha})|^2}{\int d\vec{k}|\psi_T(\vec{k};\vec{\alpha})|^2}$</li>
+<li>$\vec{k}=\left\{\vec{c}_{1}, \vec{c}_{2}, \vec{c}_{3}, \ldots\vec{c}_{N}\right\}$</li>
+<li>3 dimensions 100 particles is way too much</li>
+<li>Quantity $\Sigma_j W(j -> i) P_j^{(n)}$<br />
+<ul><br />
+<li>W is a stochastic matric (unknown) represents all possible ways of moving to one state to another.</li><br />
+<li>W with matrix elements $w_{ij}$</li><br />
+<li>$\Sigma_{j=1} w_{ij} = 1$ (summing columns normalizes to one)</li><br />
+<li>Example: k$^{3x3}$ , $W=\left[\begin{array}{ccc}\frac{1}{2} &amp; 0 &amp; 1 \ 0 &amp; 1 / 3 &amp; 0 \ 1 / 2 &amp; 2 / 3 &amp; 0\end{array}\right]$</li><br />
+<li>$\lambda_{max} = 1$, if a Markov chain converges, it converges to the most likely state, that is the state with the largest eigenvalue $\lambda_{max} = 1$</li><br />
+<li>Brute MC: Assume symmetry, transition matrix T is same from i->j and from j -> i.</li><br />
+</ul></li>
+</ul>
 
-<p>Don't have a place to start?<br />
-<a href="cooking">Cooking</a><br />
-<a href="hikes">Hikes</a><br />
-<a href="maintenance">Maintenance</a><br />
-<a href="hobbies">Hobbies</a></p>
+<p>Computational issue:</p>
 
-<h1 id="vault-command-shortcuts">Vault command shortcuts</h1>
+<ul>
+<li>$\frac{P_i}{P_j}$ =  $\frac{\left|\psi\left(\vec{k}_{i} ; \vec{\alpha}\right)\right|^{2}}{\left|\psi\left(\vec{k}_{j} ; \vec{\alpha}\right)\right|^{2}}$</li>
+<li>Many particles: $\vec{k}_{i}=\left\{\vec{c}_{1}^{(i)}, \vec{c}_{2}^{(i)}, \vec{c}_{3}^{(i)}, \ldots \vec{c}_{N}^{(i)}\right\}$</li>
+<li>Move of all particles pssible method:<br />
+<ul><br />
+<li>$\psi_{T}\left(\vec{k}_{i}\right)=\varphi_{1}\left(c_{1}^{(i)}\right) \varphi_{2}\left(c_{2}^{(i)}\right) \ldots$</li><br />
+</ul></li>
+</ul>
 
-<p>Running oboe locally:<br />
-<code>oboe ./notes -o html -t .\template.html -d "Cooking" "Hikes" "Maintenance" "Studies" -e -b</code></p>
+<h1 id="full-metropolis-algogeneral-case">Full metropolis algo(general case):</h1>
+
+<ul>
+<li>$T(i \rightarrow j) \neq T(j \rightarrow i)$</li>
+<li>$\frac{P_{i}}{P_{j}}=\frac{T(j \rightarrow i) A\left(j \rightarrow i\right)}{T(i \rightarrow j) A(i\rightarrow j)}$</li>
+<li>We will develop a model for this (T-matrix ratio), no need for stepsize.</li>
+<li>Leads us to importance sampling:</li>
+</ul>
+
+<h2 id="importance-sampling">Importance sampling:</h2>
+
+<p>Methods:</p>
+
+<ul>
+<li>Fokker-planck eq.</li>
+<li>Langevin eq.</li>
+</ul>
 </div>
     </article>
   </div>
