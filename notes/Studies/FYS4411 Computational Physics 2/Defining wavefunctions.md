@@ -3,7 +3,7 @@ How to define a trial wavefunction?
 Single particle problem:
 # Hydrogen atom
 Scrhodinger Equation (SE):
-$(\frac{\hbar^2}{2m} \Bell^2 - \frac{Zke^2}{r})\psi(\vec{r}) = E\psi(\vec{r})$
+$(\frac{\hbar^2}{2m} \nabla^2 - \frac{Zke^2}{r})\psi(\vec{r}) = E\psi(\vec{r})$
 $\psi(\vec{r}) = k(r)P_{me}(\theta_g \phi)$
 $x,y,z -> r, \theta, \phi | r \in [0, \infty), \theta \in[0, \pi], \phi \in [0, 2\pi]$
 

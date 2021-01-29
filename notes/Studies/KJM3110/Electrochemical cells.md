@@ -30,3 +30,13 @@ $\Delta G = \Delta G^\circ + RT ln \left[ \frac{a_{PbSO_4}^2 a_{H_2O}^4}{a_{Pb} 
 - Cathode is suddently negatrode.
 
 ![[Pasted image 20210120093710.png]]
+
+# Membranes
+![[Electrochemical membranes]]
+
+# Summary
+- Galvanic operation: I>0
+- Electrolytic operation: I<0
+
+# Exercises
+[[Electrochemical cells exercises]]
