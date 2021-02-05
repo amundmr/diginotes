@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studies/MASTER/LNMO-ARC.md",
+            "file": "Studies/KJM3110/Electrodes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/MASTER/LNMO-ARC.md",
+                "file": "Studies/KJM3110/Electrodes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Studies/MASTER/LNMO-ARC.md",
-    "Studies/KJM3110/Electrochemical power.md",
+    "Electrodes.md",
     "Studies/KJM3110/KJM3110-Electrochemistry.md",
-    "Electrochemical power exercises.md",
-    "Studies/KJM3110/Electrochemical cells.md",
-    "Electrochemical power.md",
-    "Studies/KJM3110/Electrochemistry-introduction.md",
-    "Studies/KJM3110/Electrosynthesis.md",
-    "QM-PDF.md",
-    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md"
+    "Studies/FYS4411 Computational Physics 2/Importance Sampling.md",
+    "Importance Sampling.md",
+    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
+    "Studies/MASTER/Accelerated Rate Calorimetry.md",
+    "Studies/MASTER/Electrolyte safety.md",
+    "Probability in quantum mechanics.md",
+    "Studies/FYS4411 Computational Physics 2/Metropolis Algorithm.md",
+    "QM-PDF.md"
   ]
 }

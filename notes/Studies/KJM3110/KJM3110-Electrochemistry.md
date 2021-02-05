@@ -1,3 +1,4 @@
+Passcode 129586
 [[Electrochemistry-introduction]]
 Chapter 1: 
 - [[Electricity]]
@@ -11,3 +12,6 @@ Chapter 4:
 - [[Electrosynthesis]]
 - [[Electrochemical power]]
 - [[Electrochemical power exercises]]
+
+Chapter 6: (Electrodes)
+- [[Electrodes]]

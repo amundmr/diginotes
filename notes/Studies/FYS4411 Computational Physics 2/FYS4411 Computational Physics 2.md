@@ -13,3 +13,5 @@ Lectures when
 [[Monte Carlo]]
 [[Metropolis Algorithm]]
 [[QM-PDF]]
+
+[[Importance Sampling]]

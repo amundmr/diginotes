@@ -7,6 +7,25 @@ Algo for performing Monte Carlo:
 	- Update averages
 - Finish and compute final averages
 
+# General MCMC
+- We have ProbDist (possibly high dimensionality). Want to sample from it or find expected value of it. Analytical solution is implausible.
+- MCMC:
+	- Perform "random walk" through probdist favoring values with higher probs.
+	- Starting point -> pick random nearby point -> evaluate its probability. If it has higher prob than start: move there, otherwise stay (or move to that point with low prob)
+	- Then we are visiting every point in the probdist propotional to how probable that point is.
+
+## Markov chain
+- Can be said in two ways:
+	- The next state is only dependent on the current state
+	- The current state is only dependent on the previous state
+- Requirement:
+	- The chain has to be ergodic:
+		- It must visit every point in the domain, and will visit tem a proportionate amount to their probability.
+		- To be ergodic, the chain must be:
+			- Irreducible - for every state there is a positive probability of moving to any other state
+			- Aperiodic - the chain must not get trapped in cycles
+
+
 # Variational Monte Carlo
 - Can include functions from different sub-files
 - Must have some initial variables: Seed, number of: particles, steps, dimensions
