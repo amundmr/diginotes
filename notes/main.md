@@ -6,3 +6,7 @@ Don't have a place to start?
 [[Hikes]]
 [[Maintenance]]
 [[Hobbies]]
+
+# Vault command shortcuts
+Running oboe locally:
+`oboe ./notes -o html -t .\template.html -d "Cooking" "Hikes" "Maintenance" "Studies" -e -b`

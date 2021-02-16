@@ -12,3 +12,6 @@ Lectures when
 [[Defining wavefunctions]]
 [[Monte Carlo]]
 [[Metropolis Algorithm]]
+[[QM-PDF]]
+
+[[Importance Sampling]]

@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7RMB399TSV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-7RMB399TSV');
+  </script>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Raniseth diginotes</title>
@@ -8,11 +18,11 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body style="background-color:#1f1f1f;">
 
 <!-- Backlinks + menu on left side goes here -->
   <div class="sidenav">
-    <a class = "basic" href="https://www.raniseth.com/diginotes/html/main.html">Main</a>
+    <a class = "basic" href="https://www.raniseth.com/diginotes/main.html">Main</a>
     <a class = "basic" href="https://www.raniseth.com">Exit diginotes</a>
     <input type="text" placeholder="Search..">
     <a> </a>
@@ -27,7 +37,7 @@
 
 <!-- Content will go here -->
 
-  <div class = "content">
+  <div class = "content"  style="color:#dbdbdb">
     <article>
       <header><h1>main</h1></header>
 
@@ -38,7 +48,13 @@
 <p>Don't have a place to start?<br />
 <a href="cooking.html">Cooking</a><br />
 <a href="hikes.html">Hikes</a><br />
-<a href="maintenance.html">Maintenance</a></p>
+<a href="maintenance.html">Maintenance</a><br />
+<a href="hobbies.html">Hobbies</a></p>
+
+<h1 id="vault-command-shortcuts">Vault command shortcuts</h1>
+
+<p>Running oboe locally:<br />
+<code>oboe ./notes -o html -t .\template.html -d "Cooking" "Hikes" "Maintenance" "Studies" -e -b</code></p>
 </div>
     </article>
   </div>

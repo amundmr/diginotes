@@ -1,17 +1,17 @@
 {
   "main": {
-    "id": "89cc783b0d8cb7f0",
+    "id": "08c73f15f572a5a9",
     "type": "split",
     "children": [
       {
-        "id": "1ad18cfe2eaed533",
+        "id": "da61325f9e722c7c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
-            "mode": "preview"
+            "file": "FuelEX8 Fork Service.md",
+            "mode": "source"
           }
         }
       }
@@ -19,15 +19,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d699be8edc2c157",
+    "id": "0b7c94fc6b00f269",
     "type": "split",
     "children": [
       {
-        "id": "91245b1123727021",
+        "id": "17802901cf53817c",
         "type": "tabs",
         "children": [
           {
-            "id": "70d784947ef22ffb",
+            "id": "7d5b113864ed6d5e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +35,12 @@
             }
           },
           {
-            "id": "bac3edc6e60d4f35",
+            "id": "5ce35aedfceffb29",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "fork",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,27 +49,28 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "974482ca52e0ce7f",
+    "id": "27880f67a7f81484",
     "type": "split",
     "children": [
       {
-        "id": "d5df20479c808818",
+        "id": "e231ce9ba053b729",
         "type": "tabs",
         "children": [
           {
-            "id": "638b9299f2f485c4",
+            "id": "554c24a845d03632",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
+                "file": "FuelEX8 Fork Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +87,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
     "Studies/FYS4411 Computational Physics 2/Defining wavefunctions.md",
     "Metropolis Algorithm.md",
@@ -96,5 +98,17 @@
     "Studies/KJM5120 Defectchemistry/Defect notation.md",
     "Studies/KJM5120 Defectchemistry/KJM5120-Defect-chemistry-and-reactions.md",
     "Studies/Pasted image 20210121103053.png"
+=======
+    "FuelEX8 Fork Service.md",
+    "Maintenance/Maintenance.md",
+    "Studies/KJM3110/Electrodes.md",
+    "Electrodes.md",
+    "Studies/KJM3110/KJM3110-Electrochemistry.md",
+    "Studies/FYS4411 Computational Physics 2/Importance Sampling.md",
+    "Importance Sampling.md",
+    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
+    "Studies/MASTER/Accelerated Rate Calorimetry.md",
+    "Studies/MASTER/Electrolyte safety.md"
+>>>>>>> f66f8282cb31150555406ab51646c21dd94b611b
   ]
 }
