@@ -28,7 +28,8 @@ Decided standard for 0 volt: Hydrogen reference electrode
 		- ![[Pasted image 20210205114105.png]]
 ## Nernst Equation
 - For cathodic, reduction, reaction: $v_{\mathrm{A}} \mathrm{A}+v_{\mathrm{B}} \mathrm{B}+\cdots+n \mathrm{e}^{-} \rightleftarrows v_{z} \mathrm{Z}+v_{\mathrm{Y}} \mathrm{Y}+\cdots$
-- The half cell potential is: $E=E^{\circ}-\frac{R T}{n F} \ln \left\{\frac{a_{z}^{v_{z}} a_{\mathrm{Y}}^{v_{\mathrm{y}}} \cdots}{a_{\mathrm{A}}^{v_{\mathrm{A}}} a_{\mathrm{B}}^{v_{\mathrm{B}}} \cdots}\right\}$
+- The half cell potential is: $E=E^{\circ}-\frac{R T}{n F} \ln \left\{\frac{a_{Z}^{v_{z}} a_{\mathrm{Y}}^{v_{\mathrm{y}}} \cdots}{a_{\mathrm{A}}^{v_{\mathrm{A}}} a_{\mathrm{B}}^{v_{\mathrm{B}}} \cdots}\right\}$
+	- Where the last term ( called Q) has the activities(often just consentrations) of the products on in the numerator and the activities of the reactants in the denominator. The exponential lowecase letters is the mol ratio corresponding to that reactant/product.
 - Nernst eqn comes from:
 	- Gibbs energy change and activities change in reactions
 - Scenarios:
