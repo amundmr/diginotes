@@ -39,45 +39,30 @@
 
   <div class = "content"  style="color:#dbdbdb">
     <article>
-      <header><h1>Monte Carlo</h1></header>
+      <header><h1>Zhong2012</h1></header>
 
-      <div id="content"><p>Algo for performing Monte Carlo:</p>
+      <div id="content"><h1 id="structural-electrochemical-and-thermal-stability-investigations-on-lini_05xal_2xmn_15xo_4-0-leq-2x-leq-1-as-5-v-cathode-materials">Structural, electrochemical and thermal stability investigations on LiNi$_{0.5−x}$Al$_{2x}$Mn$_{1.5−x}$O$_4$ $(0 \leq 2x \leq 1)$ as 5 V cathode materials</h1>
 
-<ul>
-<li>Initialization: Fix the number of MC steps, Choose initial $R$ and variational parameters $\alpha$ and calculate $|\psi_T^\alpha (R)|^2$.</li>
-<li>Initialise the energy and the variance and start the MC calc.<br />
-<ul><br />
-<li>Calc a trail pos $R_p = R + r \cdot step$ wehere $r$ is a random var $r \in [0,1].</li><br />
-<li>Metropolis algo to accept or reject this move $w = P(R_p)/P(R)$</li><br />
-<li>If the step is accepted, then we set $R = R_p$</li><br />
-<li>Update averages</li><br />
-</ul></li>
-<li>Finish and compute final averages</li>
-</ul>
+<p><a href="httpswwwsciencedirectcomsciencearticlepiis0378775312009779">https://www.sciencedirect.com/science/article/pii/S0378775312009779</a></p>
 
-<h1 id="variational-monte-carlo">Variational Monte Carlo</h1>
+<p><strong>Std E-lyte, Thermal testing, RAMAN, FTIR, CV, GCPL, SEM</strong></p>
 
 <ul>
-<li>Can include functions from different sub-files</li>
-<li>Must have some initial variables: Seed, number of: particles, steps, dimensions</li>
-<li>How to choose step size(for Harmonic Oscillator):<br />
-<ul><br />
-<li>SE from the ??</li><br />
-<li>$k(r) = u(r)/r$</li><br />
-<li>$r(0) = const$, $r(\infty) = 0$</li><br />
-<li>$u(0) = 0$, $u(\infty) = 0$</li><br />
-<li>Harmonic Oscill: $-\frac{\hbar^2}{2m} \frac{d^2}{dr^2}u(r) + 1/2 m \omega^2r^2u(r) = E u(r)$</li><br />
-<li>Scale equations, make them dimensionless (to atomic units)<br /><br />
-<ul><br /><br />
-<li>$\rho = \gamma r$ , $[r] = length$, $[\gamma] = length^{-1}$</li><br /><br />
-<li>$r = \rho/\gamma$</li><br /><br />
-<li>$-\frac{\hbar^2\gamma^2}{2m} \frac{d^2}{d\rho^2}u + 1/2 m \omega^2\rho^2/\gamma^2 u = E u$</li><br /><br />
-<li>Can choose and tune $\gamma$ as we want to remove all the constants. Done by setting all constants = 1 and solving for gamma.</li><br /><br />
-<li>Here: $\gamma = \sqrt{\hbar/m\omega}$</li><br /><br />
--<br /><br />
-</ul></li><br />
-</ul></li>
+<li>The XRD patterns show that impurity(LiAlO2) arises when $2x \geq 0.6$.</li>
+<li>The FTIR and Raman spectra indicate that the introduction of Al in the LiNi0.5Mn1.5O4 increases the disordering degree of Ni/Mn ions, changing the spinel structure from P4332 to Fd3¯m.</li>
+<li>Cyclic voltammetry tests show that the voltage step between Ni2+/Ni3+ and Ni3+/Ni4+ have a sudden leap at 2x = 0.075, responding to the structural difference of the spinels.</li>
+<li>At room temperature the LiNi0.45Al0.10Mn1.45O4 presents the best cycle performance with the capacity retention of 95.4% after 500 cycles at 1C rate, and the best rate capability with the discharge capacity of 119 mAh/g at 10C rate, which is about 93.7% of its capacity at 0.5C</li>
+<li>The thermal properties of the spinels have been tested by C80 calorimeter and the results show that introduction of Al in LiNi0.5Mn1.5O4 can effectively suppress the exothermic reaction below 225 °C, thus improve the safety of the high voltage cathode material.</li>
 </ul>
+
+<p>Exp: Thermopolymerization from nitrates (and Mn acetate). Sintering: 900C 15h, 700C 48h.<br />
+LP30 E-lyte<br />
+8:1:1 lnmo:acetylene black, PVDF and NMP<br />
+AM loading: 4.5-5mg</p>
+
+<p>Stability testing: 20mg cathode materials + 50mg E-lyte, Sealed SS tube. 0.2C/min, 30-300C. Same method as <a href="xiang2009">Xiang2009</a></p>
+
+<p>Cyclic voltammetry: Scan rate: 0.05mV/s</p>
 </div>
     </article>
   </div>
