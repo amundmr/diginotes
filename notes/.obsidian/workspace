@@ -1,33 +1,59 @@
 {
   "main": {
-    "id": "08c73f15f572a5a9",
+    "id": "ae90a815c4bd39dc",
     "type": "split",
     "children": [
       {
-        "id": "da61325f9e722c7c",
-        "type": "leaf",
-        "active": true,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "FuelEX8 Fork Service.md",
-            "mode": "source"
+        "id": "536e38dd70bd9080",
+        "type": "split",
+        "children": [
+          {
+            "id": "592183227c465c6b",
+            "type": "leaf",
+            "dimension": 45.838218053927314,
+            "active": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lin2014.md",
+                "mode": "source"
+              }
+            },
+            "group": "a0bd58371bfd30c0"
+          },
+          {
+            "id": "4c55d9946e0fa316",
+            "type": "leaf",
+            "dimension": 54.161781946072686,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lin2014.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "a0bd58371bfd30c0"
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0b7c94fc6b00f269",
+    "id": "3a15d70ccc99bbe9",
     "type": "split",
     "children": [
       {
-        "id": "17802901cf53817c",
+        "id": "2cf1c678e482f564",
         "type": "tabs",
         "children": [
           {
-            "id": "7d5b113864ed6d5e",
+            "id": "54a064dfa628212b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,12 +61,12 @@
             }
           },
           {
-            "id": "5ce35aedfceffb29",
+            "id": "76ef178b41ee4bb5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "fork",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,28 +75,27 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "27880f67a7f81484",
+    "id": "7c627c03b9cbb712",
     "type": "split",
     "children": [
       {
-        "id": "e231ce9ba053b729",
+        "id": "2700f8fc953fe236",
         "type": "tabs",
         "children": [
           {
-            "id": "554c24a845d03632",
+            "id": "ef017af4d0c56939",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FuelEX8 Fork Service.md",
+                "file": "Lin2014.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,28 +112,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Studies/FYS4411 Computational Physics 2/Computational Coding Structure.md",
-    "Studies/FYS4411 Computational Physics 2/Defining wavefunctions.md",
-    "Metropolis Algorithm.md",
-    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
-    "Monte Carlo.md",
-    "Untitled.md",
-    "Computational Coding Structure.md",
-    "Studies/KJM5120 Defectchemistry/Defect notation.md",
-    "Studies/KJM5120 Defectchemistry/KJM5120-Defect-chemistry-and-reactions.md",
-    "Studies/Pasted image 20210121103053.png"
-=======
-    "FuelEX8 Fork Service.md",
-    "Maintenance/Maintenance.md",
-    "Studies/KJM3110/Electrodes.md",
-    "Electrodes.md",
-    "Studies/KJM3110/KJM3110-Electrochemistry.md",
-    "Studies/FYS4411 Computational Physics 2/Importance Sampling.md",
-    "Importance Sampling.md",
-    "Studies/FYS4411 Computational Physics 2/FYS4411 Computational Physics 2.md",
-    "Studies/MASTER/Accelerated Rate Calorimetry.md",
-    "Studies/MASTER/Electrolyte safety.md"
->>>>>>> f66f8282cb31150555406ab51646c21dd94b611b
+    "Lin2014.md",
+    "Studies/MASTER/LNMO main.md",
+    "Yi2016.md",
+    "Zhong2012.md",
+    "Xiang2009.md",
+    "Fading Mechanisms.md",
+    "Studies/MASTER/Al-doped articles.md",
+    "Al-doped articles.md",
+    "Studies/MASTER/LNMO-ARC.md",
+    "Studies/KJM3110/KJM3110-Electrochemistry.md"
   ]
 }
