@@ -5,6 +5,7 @@
 
  [[Al-doped articles]]
  [[Fading Mechanisms]]
+ OxygenSintering: [[Zhou2020]]
  
  # What to assess for LANMO:
  - Thermal stability [[LNMO-ARC]]
