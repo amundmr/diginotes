@@ -11,7 +11,7 @@ $x,y,z -> r, \theta, \phi | r \in [0, \infty), \theta \in[0, \pi], \phi \in [0, 
 $\hbar = 1, m = 1, ke^2 = 1$
 (atomic units)
 $\frac{1}{k(r)} (- \frac{d^2}{dr^2} - \frac{2}{r}\frac{d}{dr} -\frac{Z}{r})k(r)$
-First two ledd inside parenthesis is kinetic energy, Z/r is potential energy
+First two terms inside parenthesis is kinetic energy, Z/r is potential energy
 
 **What could go wrong:**
 - The derivatives $\frac{d^m}{dr}k(r)$ are finite for all r (else it would converge)

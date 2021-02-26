@@ -18,3 +18,6 @@ Chapter 4:
 
 Chapter 6: (Electrodes)
 - [[Electrodes]]
+
+Chapter 7: (Electrode reactions)
+- [[Electrode reactions]]

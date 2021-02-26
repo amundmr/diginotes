@@ -58,8 +58,8 @@
 		- Crystalline: Defects, vacancy, interstitial, intercalation??
 
 - Capacitance:
-- Stored charge $Q = \frac{-A\epsilon}{L}\Delta E
-- Capacitance $C = \frac{-Q}{\Delta E} = \frac{\epsilon A}{L}
+- Stored charge $Q = \frac{-A\epsilon}{L}\Delta E$
+- Capacitance $C = \frac{-Q}{\Delta E} = \frac{\epsilon A}{L}$
 	- Unit: F = C/V
 	- $\epsilon = \epsilon_r \epsilon_0$ Relative*vacuum permitivity.
 - Current:
