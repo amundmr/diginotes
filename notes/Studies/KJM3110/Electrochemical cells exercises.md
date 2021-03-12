@@ -40,25 +40,58 @@ $\exp \left\{\frac{-\Delta G^{\circ}}{R T}\right\}=\frac{a_{z}^{v_{z}} a_{Y}^{1_
 
 $\exp \left\{\frac{n F}{R T} \Delta E^{\circ}\right\}=\exp \left\{\frac{-\Delta G^{\circ}}{R T}\right\}=K=\left(\frac{a_{Z}^{v_{z}} a_{\mathrm{Y}}^{v_{\mathrm{Y}}} \cdots}{a_{\mathrm{A}}^{v_{\mathrm{A}}} a_{\mathrm{B}}^{v_{\mathrm{B}}} \cdots}\right)_{\text {equilib }} \quad$ equilibrium
 
-D. Draw a cell. Use the cell from B or the lead-acid cell, with potential lines under open circuit.
+**D. Draw a cell. Use the cell from B or the lead-acid cell, with potential lines under open circuit.**
 
-i) Indicate the direction of current in galvanic operation. The current leads to voltages (overpotentials) building up due to resistances in the electrolyte, interfaces (kinetics), and electrode phases. Are you able to include such voltages so that they all contribute to decrease the cell voltage?
+**i) Indicate the direction of current in galvanic operation. The current leads to voltages (overpotentials) building up due to resistances in the electrolyte, interfaces (kinetics), and electrode phases. Are you able to include such voltages so that they all contribute to decrease the cell voltage?**
 
-ii) Indicate the direction of current in electrolytic operation. The current leads to voltages (overpotentials) building up due to resistances in the electrolyte, interfaces (kinetics), and electrode phases. Are you able to include such voltages so that they all contribute to increase the cell voltage?
+Galvanic operation means discharging? If so, the electrical current goes from the cathode to the anode through the outer circuit. Thus the electron current goes the other way (from anode to cathode, or negatrode to positrode.)
+The overpotentials can be modeled by a small resistive load across each of the mentioned barriers. Is this the same as internal resistance?
 
-iii) In the graph below, the voltage changes from the OCV when current runs galvanically or electrolytically. Does this fit qualitatively with what you have been drawing in the previous two exercises?
+
+**ii) Indicate the direction of current in electrolytic operation. The current leads to voltages (overpotentials) building up due to resistances in the electrolyte, interfaces (kinetics), and electrode phases. Are you able to include such voltages so that they all contribute to increase the cell voltage?**
+
+Electrolytic operation: Charging, or inputing energy. This is the same as the one above? Internal resistance $\propto$ overpotential.
+
+
+**iii) In the graph below, the voltage changes from the OCV when current runs galvanically or electrolytically. Does this fit qualitatively with what you have been drawing in the previous two exercises?**
 
 ![](clip_image009.jpg)
 
-iv) A footnote in the textbook says about a cell at open circuit: “It can be argued that the cell is not at equilibrium; however, each of the electrodes is at equilibrium.” Discuss what is meant by this.
+Only in the linear region, as if the internal resistances were purely a resistive load, the voltage increase would be linear with the current increase. However, on the figure we see that the current saturates at higher voltages, meaning that the resistance is actually increasing with current.
 
-![](clip_image011.jpg)E, The Daniell cell.
 
-Self study and check: Eqs. 3.20-3.23 is standard from general and physical chemistry.
+**iv) A footnote in the textbook says about a cell at open circuit: “It can be argued that the cell is not at equilibrium; however, each of the electrodes is at equilibrium.” Discuss what is meant by this.**
 
-What goes on at the diaphragm under open circuit and galvanic conditions?
+The cell in it self is at equilibrium when the voltage is zero, but the electrodes are in equilibrium since the charge densities and potentials are equaled out.(?)
 
-Express the Gibbs energy of each reactant and product of the total reaction in terms of standard Gibbs energy and activities, using the equations in the summary from Ch. 2.
+**E, The Daniell cell.**
+![](clip_image011.jpg)
+
+**Self study and check: Eqs. 3.20-3.23 is standard from general and physical chemistry.**
+
+**What goes on at the diaphragm under open circuit and galvanic conditions?**
+
+There is a liquid junction potential difference assicoiated with the porous diaphragm. This happens both under open curcuit and Galvanic operation. 
+- Open Curcuit: Consentration of different ions can be different -> induces diffusion. If the diffusion is faster for one than the other, charge imbalance may occur. Ex: LiBr solved. Br$^-$ diffuses fast to the low consentration side of the diapragm, making that side negatively charged. It is opposed by charge, but it is sufficient for a noticable voltage.
+- Galvanic operation: The slowness of diffusion through the diaphragm probably makes the drain under-populated and the source overpopulated, creating a voltage difference across the diaphragm.
+
+
+**Express the Gibbs energy of each reactant and product of the total reaction in terms of standard Gibbs energy and activities, using the equations in the summary from Ch. 2.**
+$$
+G_{i}=G_{i}^{0}+R T \ln \left\{a_{i}\right\}=\left\{\begin{array}{l}
+G_{i}^{\circ} \text { pure solid, liquid or solvent of a dilute solution } \\
+G_{i}^{\circ}+R T \ln \left\{p_{i} / p^{\circ}\right\} \text { gas except at very high pressure } \\
+G_{i}^{\circ}+R T \ln \left\{c_{i} / c^{\circ}\right\} \text { nonionic solute in a dilute solution } \\
+G_{i}^{\circ}+R T \ln \left\{\gamma_{i} c_{i} / c^{\circ}\right\} \text { ionic solute, even in dilute solution }
+\end{array}\right.
+$$
+Reaction:
+$$
+\mathrm{Cu}^{2+}(a q)+\mathrm{Zn}(s) \rightleftarrows \mathrm{Zn}^{2+}(a q)+\mathrm{Cu}(s)
+$$
+$$\Delta G = \Delta G^\circ + RT ln \frac{\gamma c}{c^\circ} = 65.6 - (-147.2) kJ/mol + 24.38 L atm/mol*ln() = $$
+
+
 
 Sum them to obtain the Gibbs energy change of the total reaction. Collect the standard energies to a standard Gibbs energy change for the reaction, and the activity terms to form the reaction quotient.
 
