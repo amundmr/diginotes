@@ -1,3 +1,6 @@
+---
+title: Ålesund potensielle bedrifter
+---
 # Håhjem næringspark
 [[https://www.a-plast.no]]
 [[https://www.mesterplast.no]]
