@@ -20,7 +20,7 @@ jobs:
     - name: Build neuron site 🔧
       run: |
         ./neuron gen -d $PWD/notes/
-        touch .neuron/output/
+        # touch .neuron/output/
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
