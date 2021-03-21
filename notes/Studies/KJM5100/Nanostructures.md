@@ -37,7 +37,7 @@ Doped more efficiently at low T
 ## Gold/Silver NP's
 ### Melting
 Happens at lower T with smaller NP size.
-![[Tm-Nanoeffect.png]]
+![[./static/KJM5100-images/Tm-Nanoeffect.png]]
 
 ### Au-catalyst
 - Makes CO$_2$ of CO. 
