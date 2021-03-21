@@ -10,6 +10,4 @@ Don't have a place to start?
 # History
 This vault was originally started with the [[Obsidian]] software, however when neuron came out, i quickly switched in order to not have to maintain a custom .
 
-# Vault command shortcuts
-Running oboe locally:
-`oboe ./notes -o html -t .\template.html -d "Cooking" "Hikes" "Maintenance" "Studies" -e -b`
+
