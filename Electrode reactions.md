@@ -20,4 +20,3 @@ Example:
 	- $k^{\circ}$ is a formal rate constant
 	- Positive term says 
 
-![](./static/2021-03-22-08-45-15.png)
