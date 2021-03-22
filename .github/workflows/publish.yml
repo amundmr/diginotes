@@ -19,10 +19,10 @@ jobs:
         ./neuron --version  # This extracts the bundle; should take a while
     - name: Build neuron site 🔧
       run: |
-        ./neuron gen -d $PWD/notes/
-        touch notes/.neuron/output/.nojekyll
+        ./neuron gen -d $PWD
+        touch .neuron/output/.nojekyll
     - name: Deploy to gh-pages 🚀
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: notes/.neuron/output/
+        publish_dir: .neuron/output/
