@@ -15,8 +15,8 @@
 
 # Butler-Volmer equation
 Example:
-- ![[./static/Pasted image 20210216124730.png]]
-- Butler-Volmer: ![[./static/Pasted image 20210216124746.png]]
+- ![](./static/Pasted image 20210216124730.png)
+- Butler-Volmer: ![](./static/Pasted image 20210216124746.png)
 	- $k^\circ$ is a formal rate constant
 	- Positive term says 
-![[2021-03-22-08-36-48.png]]
+![](./static/2021-03-22-08-45-15.png)
