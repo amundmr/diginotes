@@ -1,3 +1,4 @@
+# Electrolyte safety
 - Thermal stability of solvents w/LiPF$_6$: DMC>EMC>EC>DEC
 - DEC found to be particularly unstable, with the most flammable products.
 

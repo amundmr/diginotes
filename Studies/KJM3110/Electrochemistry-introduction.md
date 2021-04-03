@@ -1,3 +1,6 @@
+---
+title: Electrochemistry - Introduction
+---
 Related to redox chemistry.
 In Electrochemistry: Re and Ox takes place at different locations: Requires transport of ions and electrons
 

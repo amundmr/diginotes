@@ -1,3 +1,6 @@
+---
+title: Electrochemical cells
+---
 # Lead-acid cell
 ![[Pasted image 20210120085419.png]]
 Truls want us to call the positive electrode positrode and the negative electrode negatrode.

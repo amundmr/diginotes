@@ -1,3 +1,6 @@
+---
+title: Electrochemical power
+---
 # Chemical (Gibbs) energy to electrical energy
 - Fuel cells
 	- Fuels: H$_2$, Reformed CH$_3$OH, Reformed CH$_4$

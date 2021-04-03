@@ -1,3 +1,6 @@
+---
+title: Defect notation
+---
 # Kröger-Vink notation
 - Dealing with effective charge: charge relative to what would have been there if the defect wasnt there. Ex: O$^{2-}$ on interstitial, effective charge: 2-
 	- O$_i^{//}$

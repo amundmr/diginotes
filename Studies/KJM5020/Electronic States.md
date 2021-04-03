@@ -1,3 +1,6 @@
+---
+title: Electronic states
+---
 ![[Block_binding-antibinding.png]]
 
 # Crystal orbital overlap population (COOP)

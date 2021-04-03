@@ -1,3 +1,6 @@
+---
+title: Carbon
+---
 # C-60 fullerene
 - consist of pentagons(12) and hexagons(20)
 - 7Å in diameter

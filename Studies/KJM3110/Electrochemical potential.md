@@ -1,3 +1,6 @@
+---
+title: Electrochemical potential
+---
 Added to cirriculum just by slides from 09/02/21
 
 - Gibbs energy: $$

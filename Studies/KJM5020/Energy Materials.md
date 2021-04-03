@@ -1,3 +1,6 @@
+---
+title: Energy Materials
+---
 # Lithium ion battery
 - Basic functionality
 ## Staging:

@@ -1,3 +1,4 @@
+# Li-ion safety
 - Highest heat production and physical response is not correlated
 - Safety assessment based purely on heat evolution and cathodechemistry can give false safeties.
 - Safety is best assessed by a combination of mechanical stress, amount of electrical energy (energydensity, size and charge level) and chemical composition (How much heat can be generated)

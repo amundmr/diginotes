@@ -1,3 +1,6 @@
+---
+title: Electrosynthesis
+---
 - Some materials is best synthesised by electrosynthesis, and for many it is the only known way:
 	- Electrowinning from ore
 	- Exclusive: Alkalimetals, earthalkalimetals (Li, Na, K, Mg, Ca, Sr, Ba, Ra, Al, Ta + F$_2$, Cl$_2$)

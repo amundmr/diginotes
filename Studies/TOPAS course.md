@@ -1,3 +1,6 @@
+---
+title: Topas course
+---
 # 3 types of fitting
 - Peak fitting (individual peaks)
 - Structure-less fitting (Pawley fitting, from space group)

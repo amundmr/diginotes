@@ -1,3 +1,6 @@
+---
+title: Heterostructures
+---
 # Definition
 - Defined as a semiconductor structure where the chemical composition changes with position. (Often sandwiched layers)
 - Structures stacked intimately during growth process. Chemically: L or g to grow particles, ALD, CVD, Spin coating. Physically: Sputtering

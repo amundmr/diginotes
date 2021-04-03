@@ -1,3 +1,6 @@
+---
+title: Nanoparticle synthesis
+---
 # Hot injection, and heat-up
 **Hot injection:**
 - one reagent added quickly to boost supersaturation

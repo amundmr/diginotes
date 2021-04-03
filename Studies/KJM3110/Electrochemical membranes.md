@@ -1,3 +1,6 @@
+---
+title: Electrochemical membranes
+---
 - Semipermeable membranes
 	- Selective permeation
 	- Allows recharging without e.g. cation intermixing

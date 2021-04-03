@@ -1,3 +1,6 @@
+---
+title: Layered materials
+---
 # Graphite, LDHs, RP-Oxides
 - Graphite: 
 - LDH: Between the layers: Nitrate, H$_2$O anionic between the cationic layers, much stronger interlayer bonds(hydrogen bonds) than graphite.

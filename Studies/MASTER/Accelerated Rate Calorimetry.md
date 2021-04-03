@@ -1,3 +1,6 @@
+---
+title: Accelerated Rate Calorimetry
+---
 # Instrument Modes
 - Heat-search mode: Initially, the heating elements in the adiabatic chamber heats the sample a little, stops, and let the sensors search for self-heatup. If the self-heatup is above a prespecified value, the cycle stops, and we go in to adiabatic mode.
 - Adiabatic mode: The self-heatup is measured.

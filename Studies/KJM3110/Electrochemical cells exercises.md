@@ -1,4 +1,6 @@
-          
+---
+title: Electrochemical cells exercises
+---         
 
 **A. The standard Gibbs energy change for the lead-acid battery is Δ_G_0 = -375.1 kJ/mol. What is the value you get if you use data from the table on page 391 in the textbook?**
 Just summing up all the standard formation energies:

@@ -1,3 +1,6 @@
+---
+title: Electricity exercises
+---
 A)
 
  Phenomena | Symbol | Unit 

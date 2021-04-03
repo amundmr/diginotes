@@ -1,3 +1,6 @@
+---
+title: Electrodes
+---
 - Electrode of interest: Working electrode
 - Other electrode: Counter Electrode
 - Measure potential in electrolyte: Reference Electrode

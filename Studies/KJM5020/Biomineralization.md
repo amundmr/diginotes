@@ -1,3 +1,6 @@
+---
+title: Biomineralization
+---
 More info in [[Biomaterials]].
 - Biomineralization; When a biological creature makes a mineral.
 - Bio-minerals = biogenic minerals
