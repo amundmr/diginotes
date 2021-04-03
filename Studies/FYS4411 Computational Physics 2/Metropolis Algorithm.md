@@ -1,3 +1,4 @@
+# Metropolis Algorithm
 Simple Metropolis algo based on Markow chain theory
 - Probability - $P_i(t)$
 - Transition probabilty

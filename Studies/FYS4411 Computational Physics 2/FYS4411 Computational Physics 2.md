@@ -1,3 +1,6 @@
+---
+title: FYS4411 - Computational physics 2
+---
 LAB sessions (when back to real world) Ø434
 Lectures when 
 

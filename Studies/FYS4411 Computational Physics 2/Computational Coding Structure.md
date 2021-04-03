@@ -1,3 +1,6 @@
+---
+title: Computational coding structure
+---
 # Structure
 How to structure a programme (for easier resue, ex in project2):
 - Classes: System and Solver

@@ -1,3 +1,6 @@
+---
+title: Monte Carlo
+---
 Algo for performing Monte Carlo:
 - Initialization: Fix the number of MC steps, Choose initial $R$ and variational parameters $\alpha$ and calculate $|\psi_T^\alpha (R)|^2$.
 - Initialise the energy and the variance and start the MC calc.

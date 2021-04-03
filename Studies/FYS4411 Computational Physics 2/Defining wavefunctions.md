@@ -1,3 +1,6 @@
+---
+title: Defining wavefunctions
+---
 How to define a trial wavefunction?
 
 Single particle problem:
