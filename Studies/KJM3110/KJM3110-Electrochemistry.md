@@ -1,8 +1,13 @@
+# KJM3110 - Electrochemistry
+
 Passcode 129586
+
 [[Electrochemistry-introduction]]
+
 Chapter 1: 
 - [[Electricity]]
 - [[Electricity exercises]]
+
 Chapter 3: 
 - [[Electrochemical cells]]
 - [[Electrochemical membranes]]
