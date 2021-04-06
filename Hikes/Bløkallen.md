@@ -5,7 +5,7 @@ The mountain is located at Midøy island in Molde municipality (Møre og Romsdal
 
 Gives fantastic panorama view.
 
-![[Bløkallen1.png]]
-![[Bløkallen2.png]]
-![[Bløkallen3.png]]
-![[Bløkallen4.png]]
+![](./static/Bløkallen1.png)
+![](./static/Bløkallen2.png)
+![](./static/Bløkallen3.png)
+![](./static/Bløkallen4.png)

@@ -1,7 +1,7 @@
 # Fish and Chips
 Tired of the taste of cod? Try something exciting! This is an easy dinner which tastes great.
 
-![[FishnChips.png]]
+![](./static/FishnChips.png)
 
 ## Ingredients
 

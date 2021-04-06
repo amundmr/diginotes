@@ -3,7 +3,7 @@ Ca 7km roundtrip. 41m elevation, ca 2 hours. First couple of km through port are
 
 
 
-![[kart_bud-kyststi.png]]
+![](./static/kart_bud-kyststi.png)
 
-![[bud_havneksempel.jpg]]
+![](./static/bud_havneksempel.jpg)
 

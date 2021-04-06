@@ -7,9 +7,9 @@
 ## Procedure
 - Remove belly splash cover. Flat head screws: 3 in the front, 3 in the back, two in each wheel well.
 - Open drain plug and let drain.
-- ![[OilDrainPlug.png]]
+- ![](./static/OilDrainPlug.png)
 - Remove oil filter. If you have good access underneath the car, it can be reached from there. Alternatively you can loosen the coolant reservoir and reach down there(but it is much less space to work with). Prime new with oil (+ oil rubber seal) and screw as tight as you can with your hands.
-- ![[Oilfilter-lubed.png]]
+- ![](./static/Oilfilter-lubed.png)
 - Replace drain plug crush washer and install plug 40Nm(30ft-lb)
 - Fill about 3L oil.
 - Procedure for oil check:
