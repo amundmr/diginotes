@@ -6,3 +6,5 @@ Courses I've got notes from:
 
 [[KJM3110-Electrochemistry]]
 [[KJM5120-Defect-chemistry-and-reactions]]
+
+MASTER: [[LNMO main]]

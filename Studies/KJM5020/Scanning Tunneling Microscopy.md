@@ -1,5 +1,5 @@
 # Scanning Tunneling Microscopy
-![[STM.png]]
+![](./static/KJM5020-images/STM.png)
 - 5-10Å is typical tip-to-sample distance
 
 # Main components
