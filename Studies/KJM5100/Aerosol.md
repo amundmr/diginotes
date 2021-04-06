@@ -7,7 +7,7 @@
 - Flame hydrolysis:
 	- 2H$_2$ + O$_2$ -> H$_2$O
 	- SiCl$_4$ + 2H$_2$O -> SiO$_2$ + 4HCl
-![[./static/KJM5100-images/Silica_Flame_Hydrolysis.png]]
+![](./static/KJM5100-images/Silica_Flame_Hydrolysis.png)
 ## Aerosil
 - Degussa, 1942
 
@@ -36,7 +36,7 @@
 3. Particle growth, by several mechanisms: Condensation, surface reactions, coagulation. The relative rates of particle collision, coalescence and sintering are important for the shape of the obtained particles.
 - Precursors: all from [[CVD#Precursors]] + more reactive ones.
 
-![[Aerosol-Gas2particle.png]]
+![](./static/KJM5100-images/Aerosol-Gas2particle.png)
 
 ### Spray Pyrolysis
 1. Sol or slurry atomized and pass through heated area
@@ -51,8 +51,8 @@
 **Heating Reactor:** Spray into hot furnace. Good control of: T + residence time. Growth on walls, formation of hard aggregates.
 
 **LASER Reactors:** Heated by laser; efficient transfer of heat to gas. Plasma reactors. Precursors: solution from sol-gel -> atomic mixing.
-![[Aerosol-spraypyrolisys.png]]
-![[Aerosol-spraypyrolisys1.png]]
+![](./static/KJM5100-images/Aerosol-spraypyrolisys.png)
+![](./static/KJM5100-images/Aerosol-spraypyrolisys1.png)
 
 #### Film deposition
 - Spray pyrolisys (droplet deposition)
