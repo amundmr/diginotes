@@ -1,7 +1,7 @@
 # Corrosion
-*unwanted oxidation of metals*\
+*unwanted oxidation of metals*
 
-*Main points*\
+*Main points*
 - Understand BV mixed corrosion potential and the corresponding Tafel plot.
 - The slope is 1/b(Tafel slope)
 - Fe corrosion: Effects of Fe(ii) and Cl$^-$, pits and crevices
