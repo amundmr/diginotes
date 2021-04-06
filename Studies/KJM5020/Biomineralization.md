@@ -19,3 +19,4 @@ More info in [[Biomaterials]].
 
 ## Biologically controlled mineralization:
 - Organisms use cellular activities to direct nucleation, growth, morphology and final location of the mineral that is deposited.
+

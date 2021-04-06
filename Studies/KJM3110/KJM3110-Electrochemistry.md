@@ -34,5 +34,8 @@
 
 [[Electrode reactions]]
 
+## Chapter 11: Corrosion
+
+[[Corrosion]]
 
 Passcode 129586
