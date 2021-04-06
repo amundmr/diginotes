@@ -3,9 +3,13 @@ This is a collection of notes taken with any text editor, ran through [neuron ze
 
 Don't have a place to start?
 [[studies]] 
+
 [[Cooking]]
+
 [[Hikes]]
+
 [[Maintenance]]
+
 [[Hobbies]]
 
 # History
