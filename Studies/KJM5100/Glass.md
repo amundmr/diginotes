@@ -8,7 +8,7 @@
 - Highly ionic materials does not form networked structures.
 - Vitreous (glass-like) networks are isotropic.
 
-![[Glass_transition.png]]
+![](./static/KJM5100-images/Glass_transition.png)
 
 ## Zachariasens rules
 1. An Oxygen atom is at most linked to two other atoms.
@@ -33,7 +33,7 @@ Critical radius ($r^*$): The size where $\Delta G$ starts to decrease -> growth 
 - $\Delta G_N = 4/3 \pi r^3 \Delta G_V + 4 \pi r^2 \gamma$
 	- $\gamma$ is crystal-melt interfacial energy
 	- $\Delta G_V$ is change in volume free energy per initial volume (which is negative)
-![[Spherical_nucleation.png]]
+![](./static/KJM5100-images/Spherical_nucleation.png)
 
 ### Crystal growth
 - Crystals grow at any T < T$_m$ as long as a nuclei or crystal is present.
@@ -42,9 +42,9 @@ Critical radius ($r^*$): The size where $\Delta G$ starts to decrease -> growth 
 - 1ppm of glass can be crystal while still considered glass.
 
 Crystallization system:
-![[Crystallizing-system.png]]
+![](./static/KJM5100-images/Crystallizing-system.png)
 Glass forming system:
-![[Glass-forming-system.png]]
+![](./static/KJM5100-images/Glass-forming-system.png)
 
 ## Synthesis:
 Raw materials -> Batching / mixing -> Batch melting -> Fining -> homogenization -> product
@@ -58,13 +58,13 @@ Additives:
 ### Glass ceramics
 - Crystallization avoided in glass usually, but wanted here (to a degree)
 - Glass ceramics get properties from crystal formation in a glass matrix (Figure below is not sintering, but temp high enough for small crystals to start growing)
-![[Glass-Ceramics-forming.png]]
+![](./static/KJM5100-images/Glass-Ceramics-forming.png)
 
 ### Metallic glasses
 - Chill-block melt-spinning of glass ribbons (10-50 mm wide, only mm thick)
-![[chill-block-melt-spinn.png]]
+![](./static/KJM5100-images/chill-block-melt-spinn.png)
 - Droplet method (10$^4$K/s)
-![[metal-glass-droplet-method.png]]
+![](./static/KJM5100-images/metal-glass-droplet-method.png)
 - Surface melting with laser or electron beam
 - Ion mixing: Multi-layers interfused with scanning ion beam (eg Xe)
 - **Bulk:** 
@@ -80,4 +80,4 @@ Additives:
 - Silicate + metal oxides: non-bridging oxygen atoms
 - Borate + metal oxides: Converts planar BO$_3$ to tetrahedral BO$_4$.
 - Modification of [[Glass#Zachariasens rules]]: A _high percentage_ of network cations must have 3 anions.
-![[Borate-groups.png]]
+![](./static/KJM5100-images/Borate-groups.png)

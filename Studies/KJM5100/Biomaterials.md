@@ -53,7 +53,7 @@ Differences between "natural" and man-made analouges:
 - SiO$_4^{2-}$ fed into cell by ion pumps, and stabilized by a cofactor in the cell.
 - Then it is precipitated through specific openings, like lithography.
 
-![[Diatoms.png]]
+![](./static/KJM5100-images/Diatoms.png)
 
 ## How proteins is used to guide certain types of calcium carbonates
 - Templating: Proteins with charge groups corresponding to crystal structure of CaCO$_3$.

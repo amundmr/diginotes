@@ -64,8 +64,10 @@
 ## Products
 **Large scale:** 
 Titania, silica, Al-powder(From chlorides by flame pyrolisys)
+
 **Smaller scale:** 
 Bi$_2$O$_3$, Cr$_2$O$_3$, Fe$_2$O$_3$, GeO$_2$, NiO, MoO$_2$, SnO$_2$, V$_2$O$_5$, WO$_3$, ZrO$_2$, AlBO$_3$, Al$_2$TiO$_5$, AlPO$_4$
+
 **Metal Synthesis:** 
 Fumed silica particles: SiCl$_4$(g) + 4Na(g) -> Si + 4NaCl.  
 Niobium metal particles: 2NbCl$_5$(g) + 5Mg -> 2Nb + 5MgCl$_2$
