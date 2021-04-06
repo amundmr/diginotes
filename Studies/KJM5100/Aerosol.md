@@ -7,7 +7,7 @@
 - Flame hydrolysis:
 	- 2H$_2$ + O$_2$ -> H$_2$O
 	- SiCl$_4$ + 2H$_2$O -> SiO$_2$ + 4HCl
-![[Silica_Flame_Hydrolysis.png]]
+![[./static/KJM5100-images/Silica_Flame_Hydrolysis.png]]
 ## Aerosil
 - Degussa, 1942
 
