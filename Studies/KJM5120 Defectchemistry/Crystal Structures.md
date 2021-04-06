@@ -16,14 +16,14 @@ title: Crystal Structures
 		- between 6 large spheres
 		- larger
 		- 1 per large sphere
-	- ![[Pasted image 20210121103053.png]]
+	- ![](./static/20210121103053.png)
 - ABAB (hcp) (a)
 - ABCABC - turned 45 degrees, (fcc) (b)
-- ![[Pasted image 20210121103136.png]]
+- ![](./static/20210121103136.png)
 - Subsitutent solubility increases with increasing temperature because more flexibility and space available.
 - Examples:
 	- Rocksalt AX (cations in tetrahedral holes)
 	- Fluorite AX$_2$ ()
 	- Perovskite ABX$_3$
 
-![[Pasted image 20210121104013.png]]
+![](./static/20210121104013.png)

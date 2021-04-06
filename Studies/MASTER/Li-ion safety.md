@@ -10,7 +10,7 @@
 	- High C-rate cycling: 8% lower heatup initialization temp
 	- Low temp (-10$^\circ$C): 31/54$^\circ$C init temp in stead of 90/105$^\circ$C + more heat evolution in total.
 
-![[Pasted image 20210125113149.png]]
+![](./static/20210125113149.png)
 Source: M.Sc. degree of Torleif Lian (FFI)
 
 

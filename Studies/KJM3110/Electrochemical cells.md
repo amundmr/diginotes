@@ -2,7 +2,7 @@
 title: Electrochemical cells
 ---
 # Lead-acid cell
-![[Pasted image 20210120085419.png]]
+![](./static/20210120085419.png)
 Truls want us to call the positive electrode positrode and the negative electrode negatrode.
 Complete reaction: PbO$_2$(s) + Pb(s) + 2HSO$_4^-$(aq) + 2H$_3$O$^+$(aq) $\leftrightarrow$ 2PbSO$_4$(s) + 4H$_2$O(l)
 Without thinking, you can put up the $\Delta$G equation, it is just determined by the activity of the products devided by the activity of the reactants:
@@ -32,7 +32,7 @@ $\Delta G = \Delta G^\circ + RT ln \left[ \frac{a_{PbSO_4}^2 a_{H_2O}^4}{a_{Pb} 
 - Cell charging
 - Cathode is suddently negatrode.
 
-![[Pasted image 20210120093710.png]]
+![](./static/20210120093710.png)
 
 # Membranes
 ![[Electrochemical membranes]]

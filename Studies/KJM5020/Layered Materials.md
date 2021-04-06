@@ -20,14 +20,14 @@ title: Layered materials
 		- Stabilize nanoflakes in suspension: Good solvent needed, "likt løser likt"
 
 # Brief atomc arrangement in graphite, h-BN and h-MoS$_2$
-- h-BN has equal crystal structure to Graphite ![[h-Bn_and_MoS2.png]]
+- h-BN has equal crystal structure to Graphite ![](./static/KJM5020-images/h-Bn_and_MoS2.png)
 - All three can be exfoliated.
 	- Graphene: conducting properties, strong
 	- Songle Layer Boron Nitride: Coatings, dielectric
 	- MoS$_2$: Lube(as bulk), quantum dots(since it is semiconductor)
 
 # Layered Double Hydroxide (LDH)
-- Crystal structure: As Brucite - Mg(OH)$_2$. Spacegroup: P3m1 ![[LDH.png]]
+- Crystal structure: As Brucite - Mg(OH)$_2$. Spacegroup: P3m1 ![](./static/KJM5020-images/LDH.png)
 - Fill anions between the cation hydroxide layers to establish charge neutrality.
 - Other cations must have about the same size as magnesium.
 - Carbonate anions are most used in nature. Organics like amino acids can also be used.
@@ -56,4 +56,4 @@ title: Layered materials
 # Optimal platina cluster size for water splitting
 - clusters in the size of 10-70 atoms.
 - Clusters can be on CdSe particles. Charge transfer between CdSe and Pt cluster.
-- ![[CdSe-Pt_Hydrolysis.png]]
+- ![](./static/KJM5020-images/CdSe-Pt_Hydrolysis.png)

@@ -1,4 +1,4 @@
-![[Pasted image 20210209133253.png]]
+![](./static/20210209133253.png)
 # Steam electrolisys
 - $\Delta H_{\text {react }}+q+w_{\text {el }}=\Delta H_{\text {prod }}$
 	- $\mathrm{H}_{2} \mathrm{O}=\mathrm{H}_{2}+1 / 2 \mathrm{O}_{2}$

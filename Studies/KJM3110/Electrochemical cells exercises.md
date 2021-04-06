@@ -32,7 +32,7 @@ Book:
 4. $\mathrm{Ag}_{2} \mathrm{O}(s) + \mathrm{Zn}(s) \leftrightarrow  \mathrm{ZnO}(s) + 2 \mathrm{Ag}(\mathrm{s})$, Gibbs energy: -11.2 - - 320.5 = 309.3
 5. $\Delta E_{\mathrm{Iversus} \mathrm{II}}=-\frac{309.3\cdot 1000 J/mol}{2 \cdot 96485C/mol} = 1.6V$
 
-![[Pasted image 20210126144930.png]]
+![](./static/20210126144930.png)
 
 
 **C. Work two and two if possible. Explain the expressions to each other, ask questions, and discuss:**
@@ -57,7 +57,7 @@ Electrolytic operation: Charging, or inputing energy. This is the same as the on
 
 **iii) In the graph below, the voltage changes from the OCV when current runs galvanically or electrolytically. Does this fit qualitatively with what you have been drawing in the previous two exercises?**
 
-![](clip_image009.jpg)
+![](./static/clip_image009.jpg)
 
 Only in the linear region, as if the internal resistances were purely a resistive load, the voltage increase would be linear with the current increase. However, on the figure we see that the current saturates at higher voltages, meaning that the resistance is actually increasing with current.
 
@@ -67,7 +67,7 @@ Only in the linear region, as if the internal resistances were purely a resistiv
 The cell in it self is at equilibrium when the voltage is zero, but the electrodes are in equilibrium since the charge densities and potentials are equaled out.(?)
 
 **E, The Daniell cell.**
-![](clip_image011.jpg)
+![](./static/clip_image011.jpg)
 
 **Self study and check: Eqs. 3.20-3.23 is standard from general and physical chemistry.**
 
@@ -103,7 +103,7 @@ If we increase the concentration of solutions on both sides 10-fold, what happen
 
 If you want to increase the cell voltage of a Daniell cell, how could you do that?
 
-![](clip_image013.jpg)If you want to use a Daniell cell as an energy source, how could you assemble it to maximise the energy it can give?
+![](./static/clip_image013.jpg)If you want to use a Daniell cell as an energy source, how could you assemble it to maximise the energy it can give?
 
 F. Bipolar electrodes
 

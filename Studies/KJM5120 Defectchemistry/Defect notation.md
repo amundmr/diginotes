@@ -7,4 +7,4 @@ title: Defect notation
 - Symbolics: O is atom, i is what site (here interstitial), / means negative charge.
 - Oxygen Vacancy: V$_O^{\cdot \cdot}$, site: vancancy, on oxygen site, with 2+ effective charge.
 - ZrO$_2$ Zr vacancy: V$_{Zr}^{////}$ or V$_{Zr}^{4/}$
-- ![[Pasted image 20210121114034.png]]
+- !![](./static/20210121114034.png)
