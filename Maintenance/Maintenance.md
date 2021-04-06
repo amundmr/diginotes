@@ -8,11 +8,13 @@
 
 [[AudiA4B5 Other Maintenance]]
 
+
 ### Log
-208xxx km (23.12.2020): Gearbox oil change
-209xxx km (10.01.2021): Motor oil change
-208xxx km (23.12.2020): Replaced coupé filter
-209xxx km (30.12.2020): Motor air filter replaced
+
+208xxx km (23.12.2020): Gearbox oil change\\
+209xxx km (10.01.2021): Motor oil change\\
+208xxx km (23.12.2020): Replaced coupé filter\\
+209xxx km (30.12.2020): Motor air filter replaced\\
 
 
 ## Bike (Trek Fuel EX 8 2017)
