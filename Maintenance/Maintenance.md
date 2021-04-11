@@ -25,4 +25,6 @@ title: Maintenance
 [[FuelEX8 Other Maintenance]]
 
 ## Log
-26.02.2021: Fork lower leg service + air side. + replaced lower headset bearing
+
+26.02.2021: Fork lower leg service + air side. + replaced lower headset bearing\
+11.04.2021: Removed cleaned and regreased: Crank and shock top pivot
