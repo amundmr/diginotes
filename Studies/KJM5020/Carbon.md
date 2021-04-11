@@ -4,7 +4,7 @@ title: Carbon
 # C-60 fullerene
 - consist of pentagons(12) and hexagons(20)
 - 7Å in diameter
-- ![[fullerende_endo-exo.png]]
+- ![](./static/KJM5020-images/fullerende_endo-exo.png)
 - Is isolator and is diamagnetic
 - Doped with K -> can be conductor or even superconductor
 
@@ -39,7 +39,7 @@ Carbon (diamond) vs Si and Ge
 	- Scroll example: Vanadium oxide. Can have several layers in the scrolls.
 - Types of CNT's
 	- (n,m) notation, n=m -> armchair, m = 0 -> zigzag
-	- ![[CNT-nm.png]]
+	- ![](./static/KJM5020-images/CNT-nm.png)
 - Low temp chemical routes:
 	- Carbonyls with 3d catalyst metal.
 	- Boudourd Reaction: 2CO(g) = C + CO$_2$

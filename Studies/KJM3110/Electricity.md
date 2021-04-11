@@ -44,7 +44,7 @@ title: Electricity
 	- $U = \phi_B - \phi_A = \frac{W_{A->B}}{Q} = -X\delta r$
 	- 1V = 1J/C (one unit work per unit charge)
 	- Potential over variable field(Spherical symmetry):
-	- ![[Pasted image 20210112132625.png]]
+	- ![](./static/20210112132625.png)
 - *Poisson equation* explains how potential varies in space from a net charge.
 	- Planar case: areal charge densities $q_0$ and $q_L$
 	- $\frac{d^2\phi}{dx^2} = \frac{-\rho(x)}{\epsilon}$

@@ -37,7 +37,7 @@ These can be used together in TOPAS
 	- Capillary measurements can be an advantage, especially when preferred orientation is possible. This eliminates sample height errors as well.
 - Pitfalls:
 	- Preferred orientations: Random orientation is assumed for powder diffraction.
-	- ![[Pasted image 20210119134050.png]]
+	- ![](./static/20210119134050.png)
 	- Can be avoided by:
 		- capillaries (spinning it)
 		- roughened sample holder (or grease method with powder sprinkle)
@@ -69,7 +69,7 @@ These can be used together in TOPAS
 		- Sample Length = 15
 		- RS Length = 12
 		- Primary/secondary soller slits = 2.5
-		- ![[Pasted image 20210119142112.png]]
+		- ![](./static/20210119142112.png)
 		- 
 L often means Lorentian type peak
 G often mean Gaussian type peak

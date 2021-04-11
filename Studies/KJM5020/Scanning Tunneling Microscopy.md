@@ -1,5 +1,5 @@
 # Scanning Tunneling Microscopy
-![[STM.png]]
+![](./static/KJM5020-images/STM.png)
 - 5-10Å is typical tip-to-sample distance
 
 # Main components
@@ -13,8 +13,8 @@
 - Contrast: Change in DOS and topography
 - Constant tunneling curent mote: x,y are varied, I and V is kept constant and z is measured(d) as a function of tip pos (assume constant DOS)
 
-Contrast due to electron density: ![[STM_electron-dens.png]]
-Contrast due to height change (topography): ![[STM_height.png]]
+Contrast due to electron density: ![](./static/KJM5020-images/STM_electron-dens.png)
+Contrast due to height change (topography): ![](./static/KJM5020-images/STM_height.png)
 
 # Two operando modes
 **Operando:** Probing the sample while doing chemical reactions(in-situ) while having another characterization technique to look at the chemical reaction in another way. IR, MS, gas chromatomagraphy(but this is slow)
@@ -36,11 +36,11 @@ Difference of in-situ and operando. In-situ is without second measuring/probing/
 # Challenges with High Temp
 - Picture drift because of thermal expansion/contraction (can be zeroed out, and is helped out by sping system)
 - Piezoelectric motor cannot be used above its transition temp -> B must not become too hot, heat shielded by E.
-![[STM_HT.png]]
+![](./static/KJM5020-images/STM_HT.png)
 
 You can **Grow graphene on Rh(111)** by having C-source (C$_2$H$_4$(g) - ethylene) which decomposes at high temp in the STM to 2C(s) + 2H$_2$(g)
 The rightmost graph shows what substance is thermodynamically stable. Here, Graphene islands are most stable until dissolved carbon takes over.
-![[STM-carbon-growth.png]]
+![](./static/KJM5020-images/STM-carbon-growth.png)
 
 **Fischer-Tropsch:** Actual chemical reactions is hard because the machine must withstand corrosive environments.
 - Pressures above 1 bar: Create STM HP stage, only 0.5mL volume around tip and sample sealed off with O-ring.

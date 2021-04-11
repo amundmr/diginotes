@@ -7,7 +7,7 @@
 - Flame hydrolysis:
 	- 2H$_2$ + O$_2$ -> H$_2$O
 	- SiCl$_4$ + 2H$_2$O -> SiO$_2$ + 4HCl
-![[Silica_Flame_Hydrolysis.png]]
+![](./static/KJM5100-images/Silica_Flame_Hydrolysis.png)
 ## Aerosil
 - Degussa, 1942
 
@@ -36,7 +36,7 @@
 3. Particle growth, by several mechanisms: Condensation, surface reactions, coagulation. The relative rates of particle collision, coalescence and sintering are important for the shape of the obtained particles.
 - Precursors: all from [[CVD#Precursors]] + more reactive ones.
 
-![[Aerosol-Gas2particle.png]]
+![](./static/KJM5100-images/Aerosol-Gas2particle.png)
 
 ### Spray Pyrolysis
 1. Sol or slurry atomized and pass through heated area
@@ -51,8 +51,8 @@
 **Heating Reactor:** Spray into hot furnace. Good control of: T + residence time. Growth on walls, formation of hard aggregates.
 
 **LASER Reactors:** Heated by laser; efficient transfer of heat to gas. Plasma reactors. Precursors: solution from sol-gel -> atomic mixing.
-![[Aerosol-spraypyrolisys.png]]
-![[Aerosol-spraypyrolisys1.png]]
+![](./static/KJM5100-images/Aerosol-spraypyrolisys.png)
+![](./static/KJM5100-images/Aerosol-spraypyrolisys1.png)
 
 #### Film deposition
 - Spray pyrolisys (droplet deposition)
@@ -64,8 +64,10 @@
 ## Products
 **Large scale:** 
 Titania, silica, Al-powder(From chlorides by flame pyrolisys)
+
 **Smaller scale:** 
 Bi$_2$O$_3$, Cr$_2$O$_3$, Fe$_2$O$_3$, GeO$_2$, NiO, MoO$_2$, SnO$_2$, V$_2$O$_5$, WO$_3$, ZrO$_2$, AlBO$_3$, Al$_2$TiO$_5$, AlPO$_4$
+
 **Metal Synthesis:** 
 Fumed silica particles: SiCl$_4$(g) + 4Na(g) -> Si + 4NaCl.  
 Niobium metal particles: 2NbCl$_5$(g) + 5Mg -> 2Nb + 5MgCl$_2$

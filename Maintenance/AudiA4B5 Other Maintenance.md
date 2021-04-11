@@ -5,7 +5,7 @@
 
 ## Motor air filter replacement
 First remove the cover. It is just fastened by clips, but the clip below the arrow on the image below is the hardest one. Pull that first and then just pull up the entire cover.
-![[Luft-filter-deksel.png]]
+![](./static/Luft-filter-deksel.png)
 
 1. Unscrew the screw
 2. Unscrew the screw
@@ -13,4 +13,4 @@ First remove the cover. It is just fastened by clips, but the clip below the arr
 4. Carefully loosen the rubber connection from the box
 5. This is not a must, but it is easier to get the new filter in if this is removed.
 6. This is all the clips that hold together the two parts of the filter box. The yellow arrow shows that the clip on the top right is easier to reach following the curved red arrow.
-![[Air-filter-replacement.png]]
+![](./static/Air-filter-replacement.png)

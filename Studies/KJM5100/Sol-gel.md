@@ -41,7 +41,7 @@ SiO$_2$ | 2.5
 	- Larger $\phi_Z$ = greater stability colloid. (Should be \>30-50mV)
 - Given same surface potential, repulsive forces will increase with larger particles.
 
-![[sol-gel-doublelayer.png]]
+![](./static/KJM5100-images/sol-gel-doublelayer.png)
 
 ### Coagulation / Flocculation
 - Occur if:
@@ -54,7 +54,7 @@ SiO$_2$ | 2.5
 
 ### Netowork formation (gelation)
 - Gel-time: The time it takes to gelate enough to put the container upside down.
-![[sol-gel-netowork-form.png]]
+![](./static/KJM5100-images/sol-gel-netowork-form.png)
 
 **Ostwald ripening:** Can help with creating monodisperse particle sizes
 **Ageing:** The gel is still alive and will continue gelation

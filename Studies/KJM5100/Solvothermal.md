@@ -34,7 +34,7 @@ Two main synthesis types:
 - 32% filling -> H$_2$O fills autoclave at T$_c$.
 	- Higher filling results in full autoclave at lower T, and pressure increase.
 	- ex: 80% filling at 245$^\cric$C -> autoclave explosion
-![[h2o_autoclave_filling.png]]
+![](./static/KJM5100-images/h2o_autoclave_filling.png)
 
 ### Mineralizers
 - Used to increase crystallization rates
@@ -48,7 +48,7 @@ Two main synthesis types:
 - Ex: SiO$_2$ decrease in solubility over 350$^\circ$C as long as below 700bar.
 	- Also seen for halides, calcium carbonate ..
 
-![[retrograde-solubility.png]]
+![](./static/KJM5100-images/retrograde-solubility.png)
 
 ### Hydrothermal
 **Advantages:**
@@ -69,7 +69,7 @@ Two main synthesis types:
 - Ox state can be controlled by pH and V.
 - Diagrams change with T and P
 	- Lines pushed down and left at higher T
-![[Eh-Ph-solvothermal.png]]
+![](./static/KJM5100-images/Eh-Ph-solvothermal.png)
 
 **Buffers:**
 Used to control the potential to ensure spesific ox-states. Hydrogen permeable membranes can be used. CuO can buffer to ensure Fe$^{2+}$ is not made.
@@ -81,7 +81,7 @@ Used to control the potential to ensure spesific ox-states. Hydrogen permeable m
 - T$_1$\< T$_2$ -> convection to transport hot L to GrowthZone.
 - Required: some wt% solubility 0.001-0.1wt% sol diff over 10
 
-![[Solvothermal-T-gradient.png]]
+![](./static/KJM5100-images/Solvothermal-T-gradient.png)
 
 ### Autoclaves
 - Open and closed vessels

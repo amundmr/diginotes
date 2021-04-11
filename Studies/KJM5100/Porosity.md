@@ -12,7 +12,7 @@
 - Chemical compositions (metals, oxides)
 - Different preparative approaches.
 
-![[Pores.png]]
+![](./static/KJM5100-images/Pores.png)
 
 **Definitions:**
 - True, apparent and bulk density
@@ -32,7 +32,7 @@
 - *Mesopores*: 2\<r<50nm (or \< Mean Free Path)
 	- Knudsen or surface diffusion, capillary, condensation or multilayer adsorbtion.
 - *Macropores*: \>50nm (or \>MFP), Bulk diffusion + Viscous flow.
-![[pores-transport.png]]
+![](./static/KJM5100-images/pores-transport.png)
 
 **Types:**
 [[Porosity#Metallic Foams]]
@@ -41,7 +41,7 @@
 [[Porosity#MOFs]]
 [[Porosity#MCMs]]
 
-![[porous-overview.png]]
+![](./static/KJM5100-images/porous-overview.png)
 ## Metallic Foams
 - Composite of gaseous and solid phases.
 - **Porous metals:** High bulk density, independently distributed voids
@@ -75,7 +75,7 @@ Supercritical drying of gel.
 	- Modify contact angle (solid-liquid)
 	- Exchange water with waterfree solvent
 	- Silylate Si-OH-group -> springback
-![[silicagel-silylated.png]]
+![](./static/KJM5100-images/silicagel-silylated.png)
 
 ## Zeolites
 - Porous, hydrated aluminosilicates
@@ -101,7 +101,7 @@ Supercritical drying of gel.
 - BBU: Basic building unit: the tetrahedron: They all share corners and have periodic structure
 - CBU: Composite building units: polymeric structures with rings and prisms
 - Tertiari building units: larger cases
-![[Zeolite-CBU.png]]
+![](./static/KJM5100-images/Zeolite-CBU.png)
 
 ### Microporous, zeolite-like structures
 - Aluminophosphates: AlPO4
@@ -113,7 +113,7 @@ Metal organic frameworks
 
 ### MOF Structure
 Built by BBU's consisting of metallic connectors and organic linkers.
-![[MOF-structure.png]]
+![](./static/KJM5100-images/MOF-structure.png)
 However, unlinke [[Porosity#Zeotype Structure]], connector-linker bonds are coordinative or ionic, not covalent.
 - Among the largest pores of crystalline structures.
 - \>1000 m$^2$/g surface area
@@ -146,7 +146,7 @@ Mobil Composition of Matter
 - Amphiphilic surfactant molecules
 - Amorphous pore walls
 - Narrow pore size distribution
-![[MCM-structures.png]]
+![](./static/KJM5100-images/MCM-structures.png)
 
 ### MCM Synthesis
 [[Solvothermal#Hydrothermal]] synthesis: Water, amphophilic molecule(eg CTAB), soluble inorganic + catalyst
@@ -154,7 +154,7 @@ Mobil Composition of Matter
 2. Templating (They form tubes, 3d or lamellar with increasing consentration of CTAB). Either infused with Silicon, or silicon already on amphophilic molecule.
 3. Remove template ( By solvent extraction, calcination, O$_2$ Plasma, Supercritical drying) Only hexagonal or 3d structures can survive this.
 
-![[MCM-synth.png]]
+![](./static/KJM5100-images/MCM-synth.png)
 
 ### MCM Usage
 MCM-41 used as Catalyst, catalyst support, adsorbent, host for nanomaterials

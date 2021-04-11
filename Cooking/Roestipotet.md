@@ -1,7 +1,7 @@
 # Røstipotet
 The norwegians has depended on the potato for a long time, but it is just so boring! The røstipotet however is fantastic.
 
-![[Roestipotet.JPG]]
+![](./static/Roestipotet.JPG)
 
 ## Ingedients
 - Potatoes: As many as you usually use for the amount of people.

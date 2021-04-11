@@ -4,7 +4,7 @@ title: Energy Materials
 # Lithium ion battery
 - Basic functionality
 ## Staging:
-- Lithium intercalates in every fourth layer, then every tird, and so on, so the structure has definitive "stages" during the charge process. Will explain volume expansion on different amounts of intercalated lithum (or Potassium)![[intercalation-Staging.png]]
+- Lithium intercalates in every fourth layer, then every tird, and so on, so the structure has definitive "stages" during the charge process. Will explain volume expansion on different amounts of intercalated lithum (or Potassium)![](./static/KJM5020-images/intercalation-Staging.png)
 - Image shows perfectly stacked staging, but is probably more complex with cation "dislocations" in the z plane.
 
 ## Liquid electrolyte stability on anode and cathode materials:
@@ -18,7 +18,7 @@ title: Energy Materials
 
 ## SEI : Solid elecrolyte interface/interphase
 - Can stabilize graphite surface, making less anode degradation (exfoliation)
-- Is made from decomposing electrolyte, be wary of low electrolyte content ![[SEI.png]]
+- Is made from decomposing electrolyte, be wary of low electrolyte content ![](./static/KJM5020-images/SEI.png)
 
 ## Parameters essential to high energy LIBS:
 - Voltage

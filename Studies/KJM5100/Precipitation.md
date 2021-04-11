@@ -44,7 +44,7 @@ Example decomposition or removal of complexing agents:
 - Growth continues below c$_0$, without new nucleation. Ostwald ripening(works up to 5nm), size focusing(probably also a nanoeffect).
 - Between c$_S$ and c$_N$ is called supersaturtion range.
 
-![[LaMer-model.png]]
+![](./static/KJM5100-images/LaMer-model.png)
 
 - Particle size distribution is dependent on how much growth has happened while nucleation still happened. If all nucleation happens, and then growth, they will all be same size. If nucleating over long timeframes, while growing, the result will be many different sizes.
 - Growth rate can be controlled by diffusion of solvate through solvent and rate of condensation.
@@ -54,7 +54,7 @@ Can be controlled during growth, with *two growth modes*:
 - **Kinetic regime:** Shape controlled by slowest growing surfaces. Impurities can absorb selectively on particular surfaces.
 - **Thermodynamic regime:** Shape controlled by minimization of surface energy.
 - Ex: Ag cubes grow faster on 100 planes than 111 planes, thus with time, octahedrons are formed.
-![[Ag-crystal-shapes.png]]
+![](./static/KJM5100-images/Ag-crystal-shapes.png)
 
 ## Methods
 ### Forced hydrolysis
@@ -62,16 +62,16 @@ Precipitation of metal oxides or metal hydroxides by deprotonating the hydrated 
 - Oxide formation favoured by high M-ion charge and high pH
 - Hydrolysis of M$^{<4}$ -> aquo, hydroxy or aquo-hydroxy complexes.
 - Higher valent cations form oxo or oxo-hydroxy compounds.
-![[Forced-hydrolysis.png]]
+![](./static/KJM5100-images/Forced-hydrolysis.png)
 
 ### Forced Jet precipitation
 Introducing solutions forming sparingly soluble salts into a stirred reactor.
 - Fast nucleation in injection(/mixing/nucleation) zone gives high supersaturation (10$^5$-10$^8$ times)
 - Growth in outer zone
-![[Double-jet-precipitation.png]]
+![](./static/KJM5100-images/Double-jet-precipitation.png)
 
 ### Flux method
 Many different types: congruent melting, solid solution, incongruent melting, eutectic
 Setups (Decided by apperance of phase diagram): Czochralski, Bridgman, High-T Flux, SSCG
-![[Precipitation-fluxmethod.png]]
+![](./static/KJM5100-images/Precipitation-fluxmethod.png)
 

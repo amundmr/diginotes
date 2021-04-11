@@ -13,7 +13,7 @@ title: Heterostructures
 	- In lattice constant size (1-2% deviation between phases is ok)
 
 # Perovskite structure phase termination
-![[Perovskite_surf_termination.png]]
+![](./static/KJM5020-images/Perovskite_surf_termination.png)
 - The center termination can have charge neutrality if the cation is in 2+ ox state.
 - The leftmost termination type can be charge neutral if the cation is in 2+ ox state.
 - If the caton terminations are exposed to atmosphere, the "undercoordinated" cations will undergo surface reconstruction in order to be happy. Or the surface can adsorb water, oxygen or other to satisfy bonds.
