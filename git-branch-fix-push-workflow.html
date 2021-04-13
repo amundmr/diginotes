@@ -39,11 +39,31 @@
 
   <div class = "content"  style="color:#dbdbdb">
     <article>
-      <header><h1>Index</h1></header>
+      <header><h1>Git-branch-fix-push workflow</h1></header>
 
-      <div id="content"><script type="text/javascript">
-    window.location = "https://www.raniseth.com/diginotes/main";
-</script>
+      <div id="content"><h1 id="git-branch-fix-push-cheatsheet">Git branch -> fix -> push cheatsheet</h1>
+
+<p><a href="https/wwwatlassiancom/git/tutorials/comparing-workflows/feature-branch-workflow">https:/www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow</a></p>
+
+<h1 id="start-with-master-branch">Start with master branch</h1>
+
+<pre><code class="plaintext lang-plaintext language-plaintext">git checkout master  
+git fetch origin   
+git reset --hard origin/master</code></pre>
+
+<h1 id="create-new-branch">Create new branch</h1>
+
+<pre><code class="plaintext lang-plaintext language-plaintext">git checkout -b new-feature</code></pre>
+
+<h1 id="update-add-commit">Update, add, commit</h1>
+
+<pre><code class="plaintext lang-plaintext language-plaintext">git status  
+git add <some-file>
+git commit</code></pre>
+
+<h1 id="push-feature-branch-to-remote">Push feature branch to remote</h1>
+
+<pre><code class="plaintext lang-plaintext language-plaintext">git push -u origin new-feature</code></pre>
 </div>
     </article>
   </div>
