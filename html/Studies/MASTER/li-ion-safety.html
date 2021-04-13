@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-7RMB399TSV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-7RMB399TSV');
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Raniseth diginotes</title>
+<!-- STYLE IMPORT-->
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body style="background-color:#1f1f1f;">
+
+<!-- Backlinks + menu on left side goes here -->
+  <div class="sidenav">
+    <a class = "basic" href="https://www.raniseth.com/diginotes/main.html">Main</a>
+    <a class = "basic" href="https://www.raniseth.com">Exit diginotes</a>
+    <input type="text" placeholder="Search..">
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <a> </a>
+    <h2 >Backlinks</h2>
+    
+  </div>
+
+
+<!-- Content will go here -->
+
+  <div class = "content"  style="color:#dbdbdb">
+    <article>
+      <header><h1>Li-ion safety</h1></header>
+
+      <div id="content"><ul>
+<li>Highest heat production and physical response is not correlated</li>
+<li>Safety assessment based purely on heat evolution and cathodechemistry can give false safeties.</li>
+<li>Safety is best assessed by a combination of mechanical stress, amount of electrical energy (energydensity, size and charge level) and chemical composition (How much heat can be generated)</li>
+<li>Measurements show that cathode and anode materials are most chemically unstable when the cell is at 100% SOC (p12)(</li>
+<li>Heatup initializing temperature usually occurs from SEI-reactions at the anode. (Usually between 75-124)$^\circ$C.</li>
+<li>Thermal runaway usually comes from cathodereactions and start between 140-240$^\circ$C.</li>
+<li>Thermal response to degradation mechanisms (NMC+LMO 1:1 tandem 18650 cell, Fleischhammer et al.):<br />
+<ul><br />
+<li>Calendar aging: minimal change</li><br />
+<li>High C-rate cycling: 8% lower heatup initialization temp</li><br />
+<li>Low temp (-10$^\circ$C): 31/54$^\circ$C init temp in stead of 90/105$^\circ$C + more heat evolution in total.</li><br />
+</ul></li>
+</ul>
+
+<p><img src="pasted-image-20210125113149png.html" alt="Pasted image 20210125113149.png" /><br />
+Source: M.Sc. degree of Torleif Lian (FFI)</p>
+
+<h1 id="arc-accelerated-rate-calorimetry">ARC: Accelerated Rate Calorimetry</h1>
+
+<ul>
+<li>Heat-search mode: Initially, the heating elements in the adiabatic chamber heats the sample a little, stops, and let the sensors search for self-heatup. If the self-heatup is above a prespecified value, the cycle stops, and we go in to adiabatic mode.</li>
+<li>Adiabatic mode: The self-heatup is measured.<br />
+<ul><br />
+<li>Events: Self-heatup initializing temp, Venting temp (for cells), accelerated heat output and uncontrolled heat output (thermal runway)<br /><br />
+<ul><br /><br />
+<li>Separator meltdown: Endotherm reaction displayed by small lowering of heat generation.</li><br /><br />
+</ul></li><br />
+</ul></li>
+<li>Usual specifics:<br />
+<ul><br />
+<li>Instrument: EV+ARC from Thermal Hazard Technologies.<br /><br />
+<ul><br /><br />
+<li>Videocamera, Window, two cable connections, pressure sensor, and gas release.</li><br /><br />
+<li>Chamber: 40cm diameter, 44cm depth. Sealed by Si-gasket and 40kg lid with magnet lock released at 1bar overpressure.</li><br /><br />
+<li>Program: ARC-ES v6.3.2</li><br /><br />
+</ul></li><br />
+<li>Heat rate:<br /><br />
+<ul><br /><br />
+<li>Heated to $60^\circ$C, thereafter $5^\circ$C steps in the searching phase. </li><br /><br />
+<li>Wait time was 50 minutes, and search time is determined by software. </li><br /><br />
+<li>With self-heat rate above$0.2^\circ$C/min, it eneters adiabatic mode.</li><br /><br />
+<li>Measured until $250^\circ$C or until heat rate is below $0.2^\circ$C/min</li><br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
+
+<p>Source: M.Sc. degree of Torleif Lian (FFI)</p>
+</div>
+    </article>
+  </div>
+
+  <!-- KaTeX -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
+    integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
+
+  <!-- The loading of KaTeX is deferred to speed up page rendering -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
+    integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
+    crossorigin="anonymous"></script>
+
+  <!-- To automatically render math in text elements, include the auto-render extension: -->
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
+    integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
+    crossorigin="anonymous"></script>
+
+  <!-- Parsing single dollar signs -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+        renderMathInElement(document.body, {
+          delimiters: [
+            {left: "$$", right: "$$", display: true},
+          {left: "\\[", right: "\\]", display: true},
+      {left: "$", right: "$", display: false},
+      {left: "\\(", right: "\\)", display: false}
+        ]
+    });
+    });
+  </script>
+
+  <!-- Syntax highlighting through highlight.js -->
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/styles/default.min.css">
+  <script src="https://unpkg.com/@highlightjs/cdn-assets@10.4.0/highlight.min.js"></script>
+
+  <script>
+    // Ignore highlighting of mermaid
+    hljs.configure({noHighlightRe: /^mermaid$/});
+    hljs.initHighlightingOnLoad();
+  </script>
+
+</body>
+
+</html>

@@ -38,4 +38,8 @@
 
 [[Corrosion]]
 
+## Chapter 12: Steady-State Electrochemistry
+
+[[Steady-State Electrochemistry]]
+
 Passcode 129586
