@@ -39,11 +39,45 @@
 
   <div class = "content"  style="color:#dbdbdb">
     <article>
-      <header><h1>Index</h1></header>
+      <header><h1>Monte Carlo</h1></header>
 
-      <div id="content"><script type="text/javascript">
-    window.location = "https://www.raniseth.com/diginotes/main";
-</script>
+      <div id="content"><p>Algo for performing Monte Carlo:</p>
+
+<ul>
+<li>Initialization: Fix the number of MC steps, Choose initial $R$ and variational parameters $\alpha$ and calculate $|\psi_T^\alpha (R)|^2$.</li>
+<li>Initialise the energy and the variance and start the MC calc.<br />
+<ul><br />
+<li>Calc a trail pos $R_p = R + r \cdot step$ wehere $r$ is a random var $r \in [0,1].</li><br />
+<li>Metropolis algo to accept or reject this move $w = P(R_p)/P(R)$</li><br />
+<li>If the step is accepted, then we set $R = R_p$</li><br />
+<li>Update averages</li><br />
+</ul></li>
+<li>Finish and compute final averages</li>
+</ul>
+
+<h1 id="variational-monte-carlo">Variational Monte Carlo</h1>
+
+<ul>
+<li>Can include functions from different sub-files</li>
+<li>Must have some initial variables: Seed, number of: particles, steps, dimensions</li>
+<li>How to choose step size(for Harmonic Oscillator):<br />
+<ul><br />
+<li>SE from the ??</li><br />
+<li>$k(r) = u(r)/r$</li><br />
+<li>$r(0) = const$, $r(\infty) = 0$</li><br />
+<li>$u(0) = 0$, $u(\infty) = 0$</li><br />
+<li>Harmonic Oscill: $-\frac{\hbar^2}{2m} \frac{d^2}{dr^2}u(r) + 1/2 m \omega^2r^2u(r) = E u(r)$</li><br />
+<li>Scale equations, make them dimensionless (to atomic units)<br /><br />
+<ul><br /><br />
+<li>$\rho = \gamma r$ , $[r] = length$, $[\gamma] = length^{-1}$</li><br /><br />
+<li>$r = \rho/\gamma$</li><br /><br />
+<li>$-\frac{\hbar^2\gamma^2}{2m} \frac{d^2}{d\rho^2}u + 1/2 m \omega^2\rho^2/\gamma^2 u = E u$</li><br /><br />
+<li>Can choose and tune $\gamma$ as we want to remove all the constants. Done by setting all constants = 1 and solving for gamma.</li><br /><br />
+<li>Here: $\gamma = \sqrt{\hbar/m\omega}$</li><br /><br />
+-<br /><br />
+</ul></li><br />
+</ul></li>
+</ul>
 </div>
     </article>
   </div>
