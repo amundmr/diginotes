@@ -1,19 +1,19 @@
 # KJM3110 - Electrochemistry
 
-[[Electrochemistry-introduction]]
+[[Electrochemistry-introduction]]#
 
 
 ## Chapter 1: 
-[[Electricity]]\
-[[Electricity exercises]]
+[[Electricity]]#\
+[[Electricity exercises]]#
 
 
 ## Chapter 3: 
 
-[[Electrochemical cells]]\
-[[Electrochemical membranes]]\
-[[Electrochemical cells exercises]]\
-[[Electrochemical potential]]\
+[[Electrochemical cells]]#\
+[[Electrochemical membranes]]#\
+[[Electrochemical cells exercises]]#\
+[[Electrochemical potential]]#\
 
 
 ## Chapter 4: 
