@@ -1,8 +1,8 @@
 # KJM5120: Defect Chemistry and reactions
 
-[[Crystal Structures]]
+- [[Crystal Structures]]#
 
-[[Defect notation]]
+- [[Defect notation]]#
 
 - Be familiar with different defect types and transport mechanisms in crystalline materials
 - You can, in simple cases, deduce how defect concentration and transport parameters vary as a function of surrounding atmosphere, temperature, and doping.

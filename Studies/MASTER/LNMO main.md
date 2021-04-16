@@ -1,11 +1,11 @@
 # LNMO MAIN
-[[LNMO-ARC]]
-[[Li-ion safety]]
-[[Electrolyte safety]]
-[[Accelerated Rate Calorimetry]]
+- [[LNMO-ARC]]#
+- [[Li-ion safety]]#
+- [[Electrolyte safety]]#
+- [[Accelerated Rate Calorimetry]]#
 
- [[Al-doped articles]]
- [[Fading Mechanisms]]
+- [[Al-doped articles]]#
+- [[Fading Mechanisms]]#
  OxygenSintering: [[Zhou2020]]
  
  # What to assess for LANMO:

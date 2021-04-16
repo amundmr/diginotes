@@ -1,7 +1,7 @@
 # Hikes
 
 ## Molde
-[[Bud Kyststi]]
+- [[Bud Kyststi]]#
 
 ## Midsund
-[[Bløkallen]]
+- [[Bløkallen]]#
