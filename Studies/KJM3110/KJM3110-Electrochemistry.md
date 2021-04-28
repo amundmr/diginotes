@@ -42,4 +42,17 @@
 
 - [[Steady-State Electrochemistry]]#
 
+## Chapter 13: The electrode interface
+
+- [[The electrode interface]]#
+
+## Chapter 14: Other interfaces
+
+- [[Other interfaces]]#
+
+
+## Lab
+
+
+
 Passcode 129586
