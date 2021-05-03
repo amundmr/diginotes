@@ -50,6 +50,9 @@
 
 - [[Other interfaces]]#
 
+## Chapter 15: Electrochemistry with Periodic Signals
+
+- [[Electrochemistry with Periodic Signals]]#
 
 ## Lab
 
