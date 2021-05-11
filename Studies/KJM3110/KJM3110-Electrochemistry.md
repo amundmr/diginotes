@@ -54,6 +54,10 @@
 
 - [[Electrochemistry with Periodic Signals]]#
 
+## Chapter 16: Transient voltammetry
+
+- [[Transient Voltammetry]]#
+
 ## Lab
 
 
