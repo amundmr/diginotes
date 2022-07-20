@@ -13,6 +13,7 @@
 - 209xxx km (10.01.2021): Motor oil change
 - 208xxx km (23.12.2020): Replaced coupé filter
 - 209xxx km (30.12.2020): Motor air filter replaced
+- 22xxxx km (20.07.2022): Gearbox oil change (used same drain plug and fill cork)
 
 
 ## Bike (Trek Fuel EX 8 2017)
